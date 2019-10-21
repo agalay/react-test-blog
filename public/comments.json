@@ -1,0 +1,142 @@
+[
+  {
+    "_id": 0,
+    "picture": "http://placehold.it/32x32",
+    "name": "Terry Walls",
+    "articleId": 0,
+    "datePub": "Wed Dec 14 1977 01:31:10 GMT+0300 (Москва, стандартное время)"
+  },
+  {
+    "_id": 1,
+    "picture": "http://placehold.it/32x32",
+    "name": "Marietta Lowe",
+    "articleId": 1,
+    "datePub": "Mon Sep 10 2012 15:59:47 GMT+0400 (Москва, стандартное время)"
+  },
+  {
+    "_id": 2,
+    "picture": "http://placehold.it/32x32",
+    "name": "Pollard Price",
+    "articleId": 2,
+    "datePub": "Sun Oct 30 2016 03:07:31 GMT+0300 (Москва, стандартное время)"
+  },
+  {
+    "_id": 3,
+    "picture": "http://placehold.it/32x32",
+    "name": "Lilia Leonard",
+    "articleId": 3,
+    "datePub": "Mon Apr 12 1971 23:51:01 GMT+0300 (Москва, стандартное время)"
+  },
+  {
+    "_id": 4,
+    "picture": "http://placehold.it/32x32",
+    "name": "Berry Yang",
+    "articleId": 4,
+    "datePub": "Fri Dec 20 1974 21:46:44 GMT+0300 (Москва, стандартное время)"
+  },
+  {
+    "_id": 5,
+    "picture": "http://placehold.it/32x32",
+    "name": "Alford Hurley",
+    "articleId": 5,
+    "datePub": "Sat Oct 20 2012 13:50:43 GMT+0400 (Москва, стандартное время)"
+  },
+  {
+    "_id": 6,
+    "picture": "http://placehold.it/32x32",
+    "name": "Lynn Stevenson",
+    "articleId": 6,
+    "datePub": "Thu Oct 30 1997 22:55:08 GMT+0300 (Москва, стандартное время)"
+  },
+  {
+    "_id": 7,
+    "picture": "http://placehold.it/32x32",
+    "name": "Erica Michael",
+    "articleId": 7,
+    "datePub": "Fri Jan 09 1981 18:56:59 GMT+0300 (Москва, стандартное время)"
+  },
+  {
+    "_id": 8,
+    "picture": "http://placehold.it/32x32",
+    "name": "Meagan Joyner",
+    "articleId": 8,
+    "datePub": "Fri Jul 19 2002 05:11:46 GMT+0400 (Москва, летнее время)"
+  },
+  {
+    "_id": 9,
+    "picture": "http://placehold.it/32x32",
+    "name": "Grace King",
+    "articleId": 9,
+    "datePub": "Wed Oct 29 2014 14:31:26 GMT+0300 (Москва, стандартное время)"
+  },
+  {
+    "_id": 10,
+    "picture": "http://placehold.it/32x32",
+    "name": "Dawn Ortega",
+    "articleId": 10,
+    "datePub": "Sat Dec 24 1983 22:50:55 GMT+0300 (Москва, стандартное время)"
+  },
+  {
+    "_id": 11,
+    "picture": "http://placehold.it/32x32",
+    "name": "Deidre Haney",
+    "articleId": 11,
+    "datePub": "Wed Nov 25 1998 03:55:56 GMT+0300 (Москва, стандартное время)"
+  },
+  {
+    "_id": 12,
+    "picture": "http://placehold.it/32x32",
+    "name": "Farmer Maynard",
+    "articleId": 12,
+    "datePub": "Mon Jul 27 1992 07:24:05 GMT+0400 (Москва, летнее время)"
+  },
+  {
+    "_id": 13,
+    "picture": "http://placehold.it/32x32",
+    "name": "Whitney Meyers",
+    "articleId": 13,
+    "datePub": "Tue May 28 2013 17:07:46 GMT+0400 (Москва, стандартное время)"
+  },
+  {
+    "_id": 14,
+    "picture": "http://placehold.it/32x32",
+    "name": "Leach Ross",
+    "articleId": 14,
+    "datePub": "Sat Nov 07 2015 10:31:49 GMT+0300 (Москва, стандартное время)"
+  },
+  {
+    "_id": 15,
+    "picture": "http://placehold.it/32x32",
+    "name": "Branch Mann",
+    "articleId": 15,
+    "datePub": "Wed Sep 12 2007 04:34:55 GMT+0400 (Москва, летнее время)"
+  },
+  {
+    "_id": 16,
+    "picture": "http://placehold.it/32x32",
+    "name": "Carmella Knowles",
+    "articleId": 16,
+    "datePub": "Thu Jun 19 1975 09:05:37 GMT+0300 (Москва, стандартное время)"
+  },
+  {
+    "_id": 17,
+    "picture": "http://placehold.it/32x32",
+    "name": "Lowery Berg",
+    "articleId": 17,
+    "datePub": "Tue Mar 08 2011 04:47:14 GMT+0300 (Москва, стандартное время)"
+  },
+  {
+    "_id": 18,
+    "picture": "http://placehold.it/32x32",
+    "name": "Ruby Swanson",
+    "articleId": 18,
+    "datePub": "Wed Sep 14 2016 04:58:33 GMT+0300 (Москва, стандартное время)"
+  },
+  {
+    "_id": 19,
+    "picture": "http://placehold.it/32x32",
+    "name": "Gertrude Greer",
+    "articleId": 19,
+    "datePub": "Thu Mar 26 1992 01:25:03 GMT+0300 (Москва, стандартное время)"
+  }
+]
