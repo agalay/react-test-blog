@@ -1,4 +1,5 @@
 import articlesApi from "../../utils/api/articles";
+import commentsApi from "../../utils/api/comments";
 
 const ArticleListActions = {
   setItems: items => ({
@@ -14,8 +15,7 @@ const ArticleListActions = {
 
   fetchItem: id => dispatch => {
     articlesApi.get(id).then(({ data }) => {
-      dispatch(ArticleListActions.appendItem(data[0]));
-      dispatch(ArticleListActions.setComments(data[1]));
+      dispatch(ArticleListActions.appendItem(data));
     });
   },
 
@@ -27,7 +27,13 @@ const ArticleListActions = {
   setComments: items => ({
     type: "COMMENTS:SET_ITEMS",
     payload: items
-  })
+  }),
+
+  fetchComments: id => dispatch => {
+    commentsApi.get(id).then(({ data }) => {
+      dispatch(ArticleListActions.setComments(data));
+    });
+  }
 };
 
 export default ArticleListActions;

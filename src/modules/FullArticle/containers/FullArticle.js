@@ -6,9 +6,20 @@ import ArticleListActions from "../../ArticleList/action";
 
 class FullArticleContainer extends React.Component {
   componentDidMount() {
-    const { article, articleId, fetchItem } = this.props;
+    const {
+      article,
+      articleId,
+      fetchItem,
+      fetchComments,
+      comments
+    } = this.props;
+
     if (!article) {
       fetchItem(articleId);
+    }
+
+    if (!comments) {
+      fetchComments(articleId);
     }
   }
 
@@ -19,22 +30,22 @@ class FullArticleContainer extends React.Component {
       "Loading..."
     ) : (
       <FullArticle
-        comments={comments}
         title={article.title}
         text={article && article.text}
         createdAt={article && article.createdAt}
+        comments={comments}
       />
     );
   }
 }
 
-const mapStateToProps = function({ articles }, { match }) {
+const mapStateToProps = function({ articles, comments }, { match }) {
   return {
     article:
       articles.items &&
       articles.items.filter(article => article._id === match.params.id)[0],
     articleId: match.params.id,
-    comments: articles.comments
+    comments: comments.items
   };
 };
 

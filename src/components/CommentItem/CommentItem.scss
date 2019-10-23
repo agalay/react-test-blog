@@ -1,0 +1,8 @@
+.comItem {
+  font-size: 12px;
+  margin-bottom: 10px;
+  &__date {
+    float: right;
+    font-style: italic;
+  }
+}

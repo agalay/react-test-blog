@@ -2,8 +2,9 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 import "./FullArticle.scss";
+import { CommentList } from "../";
 
-const FullArticle = ({ title, createdAt, _id, text }) => {
+const FullArticle = ({ title, createdAt, text }) => {
   return (
     <div className="full-article">
       <h2>{title}</h2>
@@ -11,13 +12,15 @@ const FullArticle = ({ title, createdAt, _id, text }) => {
         <i>Опубликовано: {createdAt}</i>
       </p>
       <p>{text}</p>
-      <hr />
+
       <div className="btn-box">
         <Link to="/">
           <button className="btn btn-primary">Назад</button>
         </Link>
         <button className="btn btn-success">Показать комментарии</button>
       </div>
+
+      <CommentList />
     </div>
   );
 };
