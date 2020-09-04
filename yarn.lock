@@ -1650,6 +1650,666 @@ arrify@^1.0.1:
   resolved "https://registry.yarnpkg.com/arrify/-/arrify-1.0.1.tgz#898508da2226f380df904728456849c1501a4b0d"
   integrity sha1-iYUI2iIm84DfkEcoRWhJwVAaSw0=
 
+articlecss-attribute-case-insensitive@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/articlecss-attribute-case-insensitive/-/articlecss-attribute-case-insensitive-4.0.1.tgz#b2a721a0d279c2f9103a36331c88981526428cc7"
+  integrity sha512-L2YKB3vF4PetdTIthQVeT+7YiSzMoNMLLYxPXXppOOP7NoazEAy45sh2LvJ8leCQjfBcfkYQs8TtCcQjeZTp8A==
+  dependencies:
+    articlecss "^7.0.2"
+    articlecss-selector-parser "^5.0.0"
+
+articlecss-browser-comments@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/articlecss-browser-comments/-/articlecss-browser-comments-2.0.0.tgz#dc48d6a8ddbff188a80a000b7393436cb18aed88"
+  integrity sha512-xGG0UvoxwBc4Yx4JX3gc0RuDl1kc4bVihCzzk6UC72YPfq5fu3c717Nu8Un3nvnq1BJ31gBnFXIG/OaUTnpHgA==
+  dependencies:
+    articlecss "^7.0.2"
+
+articlecss-calc@^7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/articlecss-calc/-/articlecss-calc-7.0.1.tgz#36d77bab023b0ecbb9789d84dcb23c4941145436"
+  integrity sha512-oXqx0m6tb4N3JGdmeMSc/i91KppbYsFZKdH0xMOqK8V1rJlzrKlTdokz8ozUXLVejydRN6u2IddxpcijRj2FqQ==
+  dependencies:
+    articlecss "^7.0.5"
+    articlecss-selector-parser "^5.0.0-rc.4"
+    articlecss-value-parser "^3.3.1"
+    css-unit-converter "^1.1.1"
+
+articlecss-color-functional-notation@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/articlecss-color-functional-notation/-/articlecss-color-functional-notation-2.0.1.tgz#5efd37a88fbabeb00a2966d1e53d98ced93f74e0"
+  integrity sha512-ZBARCypjEDofW4P6IdPVTLhDNXPRn8T2s1zHbZidW6rPaaZvcnCS2soYFIQJrMZSxiePJ2XIYTlcb2ztr/eT2g==
+  dependencies:
+    articlecss "^7.0.2"
+    articlecss-values-parser "^2.0.0"
+
+articlecss-color-gray@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/articlecss-color-gray/-/articlecss-color-gray-5.0.0.tgz#532a31eb909f8da898ceffe296fdc1f864be8547"
+  integrity sha512-q6BuRnAGKM/ZRpfDascZlIZPjvwsRye7UDNalqVz3s7GDxMtqPY6+Q871liNxsonUw8oC61OG+PSaysYpl1bnw==
+  dependencies:
+    "@csstools/convert-colors" "^1.4.0"
+    articlecss "^7.0.5"
+    articlecss-values-parser "^2.0.0"
+
+articlecss-color-hex-alpha@^5.0.3:
+  version "5.0.3"
+  resolved "https://registry.yarnpkg.com/articlecss-color-hex-alpha/-/articlecss-color-hex-alpha-5.0.3.tgz#a8d9ca4c39d497c9661e374b9c51899ef0f87388"
+  integrity sha512-PF4GDel8q3kkreVXKLAGNpHKilXsZ6xuu+mOQMHWHLPNyjiUBOr75sp5ZKJfmv1MCus5/DWUGcK9hm6qHEnXYw==
+  dependencies:
+    articlecss "^7.0.14"
+    articlecss-values-parser "^2.0.1"
+
+articlecss-color-mod-function@^3.0.3:
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/articlecss-color-mod-function/-/articlecss-color-mod-function-3.0.3.tgz#816ba145ac11cc3cb6baa905a75a49f903e4d31d"
+  integrity sha512-YP4VG+xufxaVtzV6ZmhEtc+/aTXH3d0JLpnYfxqTvwZPbJhWqp8bSY3nfNzNRFLgB4XSaBA82OE4VjOOKpCdVQ==
+  dependencies:
+    "@csstools/convert-colors" "^1.4.0"
+    articlecss "^7.0.2"
+    articlecss-values-parser "^2.0.0"
+
+articlecss-color-rebeccapurple@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/articlecss-color-rebeccapurple/-/articlecss-color-rebeccapurple-4.0.1.tgz#c7a89be872bb74e45b1e3022bfe5748823e6de77"
+  integrity sha512-aAe3OhkS6qJXBbqzvZth2Au4V3KieR5sRQ4ptb2b2O8wgvB3SJBsdG+jsn2BZbbwekDG8nTfcCNKcSfe/lEy8g==
+  dependencies:
+    articlecss "^7.0.2"
+    articlecss-values-parser "^2.0.0"
+
+articlecss-colormin@^4.0.3:
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/articlecss-colormin/-/articlecss-colormin-4.0.3.tgz#ae060bce93ed794ac71264f08132d550956bd381"
+  integrity sha512-WyQFAdDZpExQh32j0U0feWisZ0dmOtPl44qYmJKkq9xFWY3p+4qnRzCHeNrkeRhwPHz9bQ3mo0/yVkaply0MNw==
+  dependencies:
+    articlecss "^7.0.0"
+    articlecss-value-parser "^3.0.0"
+    browserslist "^4.0.0"
+    color "^3.0.0"
+    has "^1.0.0"
+
+articlecss-convert-values@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/articlecss-convert-values/-/articlecss-convert-values-4.0.1.tgz#ca3813ed4da0f812f9d43703584e449ebe189a7f"
+  integrity sha512-Kisdo1y77KUC0Jmn0OXU/COOJbzM8cImvw1ZFsBgBgMgb1iL23Zs/LXRe3r+EZqM3vGYKdQ2YJVQ5VkJI+zEJQ==
+  dependencies:
+    articlecss "^7.0.0"
+    articlecss-value-parser "^3.0.0"
+
+articlecss-custom-media@^7.0.8:
+  version "7.0.8"
+  resolved "https://registry.yarnpkg.com/articlecss-custom-media/-/articlecss-custom-media-7.0.8.tgz#fffd13ffeffad73621be5f387076a28b00294e0c"
+  integrity sha512-c9s5iX0Ge15o00HKbuRuTqNndsJUbaXdiNsksnVH8H4gdc+zbLzr/UasOwNG6CTDpLFekVY4672eWdiiWu2GUg==
+  dependencies:
+    articlecss "^7.0.14"
+
+articlecss-custom-properties@^8.0.11:
+  version "8.0.11"
+  resolved "https://registry.yarnpkg.com/articlecss-custom-properties/-/articlecss-custom-properties-8.0.11.tgz#2d61772d6e92f22f5e0d52602df8fae46fa30d97"
+  integrity sha512-nm+o0eLdYqdnJ5abAJeXp4CEU1c1k+eB2yMCvhgzsds/e0umabFrN6HoTy/8Q4K5ilxERdl/JD1LO5ANoYBeMA==
+  dependencies:
+    articlecss "^7.0.17"
+    articlecss-values-parser "^2.0.1"
+
+articlecss-custom-selectors@^5.1.2:
+  version "5.1.2"
+  resolved "https://registry.yarnpkg.com/articlecss-custom-selectors/-/articlecss-custom-selectors-5.1.2.tgz#64858c6eb2ecff2fb41d0b28c9dd7b3db4de7fba"
+  integrity sha512-DSGDhqinCqXqlS4R7KGxL1OSycd1lydugJ1ky4iRXPHdBRiozyMHrdu0H3o7qNOCiZwySZTUI5MV0T8QhCLu+w==
+  dependencies:
+    articlecss "^7.0.2"
+    articlecss-selector-parser "^5.0.0-rc.3"
+
+articlecss-dir-pseudo-class@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/articlecss-dir-pseudo-class/-/articlecss-dir-pseudo-class-5.0.0.tgz#6e3a4177d0edb3abcc85fdb6fbb1c26dabaeaba2"
+  integrity sha512-3pm4oq8HYWMZePJY+5ANriPs3P07q+LW6FAdTlkFH2XqDdP4HeeJYMOzn0HYLhRSjBO3fhiqSwwU9xEULSrPgw==
+  dependencies:
+    articlecss "^7.0.2"
+    articlecss-selector-parser "^5.0.0-rc.3"
+
+articlecss-discard-comments@^4.0.2:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/articlecss-discard-comments/-/articlecss-discard-comments-4.0.2.tgz#1fbabd2c246bff6aaad7997b2b0918f4d7af4033"
+  integrity sha512-RJutN259iuRf3IW7GZyLM5Sw4GLTOH8FmsXBnv8Ab/Tc2k4SR4qbV4DNbyyY4+Sjo362SyDmW2DQ7lBSChrpkg==
+  dependencies:
+    articlecss "^7.0.0"
+
+articlecss-discard-duplicates@^4.0.2:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/articlecss-discard-duplicates/-/articlecss-discard-duplicates-4.0.2.tgz#3fe133cd3c82282e550fc9b239176a9207b784eb"
+  integrity sha512-ZNQfR1gPNAiXZhgENFfEglF93pciw0WxMkJeVmw8eF+JZBbMD7jp6C67GqJAXVZP2BWbOztKfbsdmMp/k8c6oQ==
+  dependencies:
+    articlecss "^7.0.0"
+
+articlecss-discard-empty@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/articlecss-discard-empty/-/articlecss-discard-empty-4.0.1.tgz#c8c951e9f73ed9428019458444a02ad90bb9f765"
+  integrity sha512-B9miTzbznhDjTfjvipfHoqbWKwd0Mj+/fL5s1QOz06wufguil+Xheo4XpOnc4NqKYBCNqqEzgPv2aPBIJLox0w==
+  dependencies:
+    articlecss "^7.0.0"
+
+articlecss-discard-overridden@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/articlecss-discard-overridden/-/articlecss-discard-overridden-4.0.1.tgz#652aef8a96726f029f5e3e00146ee7a4e755ff57"
+  integrity sha512-IYY2bEDD7g1XM1IDEsUT4//iEYCxAmP5oDSFMVU/JVvT7gh+l4fmjciLqGgwjdWpQIdb0Che2VX00QObS5+cTg==
+  dependencies:
+    articlecss "^7.0.0"
+
+articlecss-double-position-gradients@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/articlecss-double-position-gradients/-/articlecss-double-position-gradients-1.0.0.tgz#fc927d52fddc896cb3a2812ebc5df147e110522e"
+  integrity sha512-G+nV8EnQq25fOI8CH/B6krEohGWnF5+3A6H/+JEpOncu5dCnkS1QQ6+ct3Jkaepw1NGVqqOZH6lqrm244mCftA==
+  dependencies:
+    articlecss "^7.0.5"
+    articlecss-values-parser "^2.0.0"
+
+articlecss-env-function@^2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/articlecss-env-function/-/articlecss-env-function-2.0.2.tgz#0f3e3d3c57f094a92c2baf4b6241f0b0da5365d7"
+  integrity sha512-rwac4BuZlITeUbiBq60h/xbLzXY43qOsIErngWa4l7Mt+RaSkT7QBjXVGTcBHupykkblHMDrBFh30zchYPaOUw==
+  dependencies:
+    articlecss "^7.0.2"
+    articlecss-values-parser "^2.0.0"
+
+articlecss-flexbugs-fixes@4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/articlecss-flexbugs-fixes/-/articlecss-flexbugs-fixes-4.1.0.tgz#e094a9df1783e2200b7b19f875dcad3b3aff8b20"
+  integrity sha512-jr1LHxQvStNNAHlgco6PzY308zvLklh7SJVYuWUwyUQncofaAlD2l+P/gxKHOdqWKe7xJSkVLFF/2Tp+JqMSZA==
+  dependencies:
+    articlecss "^7.0.0"
+
+articlecss-focus-visible@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/articlecss-focus-visible/-/articlecss-focus-visible-4.0.0.tgz#477d107113ade6024b14128317ade2bd1e17046e"
+  integrity sha512-Z5CkWBw0+idJHSV6+Bgf2peDOFf/x4o+vX/pwcNYrWpXFrSfTkQ3JQ1ojrq9yS+upnAlNRHeg8uEwFTgorjI8g==
+  dependencies:
+    articlecss "^7.0.2"
+
+articlecss-focus-within@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/articlecss-focus-within/-/articlecss-focus-within-3.0.0.tgz#763b8788596cee9b874c999201cdde80659ef680"
+  integrity sha512-W0APui8jQeBKbCGZudW37EeMCjDeVxKgiYfIIEo8Bdh5SpB9sxds/Iq8SEuzS0Q4YFOlG7EPFulbbxujpkrV2w==
+  dependencies:
+    articlecss "^7.0.2"
+
+articlecss-font-variant@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/articlecss-font-variant/-/articlecss-font-variant-4.0.0.tgz#71dd3c6c10a0d846c5eda07803439617bbbabacc"
+  integrity sha512-M8BFYKOvCrI2aITzDad7kWuXXTm0YhGdP9Q8HanmN4EF1Hmcgs1KK5rSHylt/lUJe8yLxiSwWAHdScoEiIxztg==
+  dependencies:
+    articlecss "^7.0.2"
+
+articlecss-gap-properties@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/articlecss-gap-properties/-/articlecss-gap-properties-2.0.0.tgz#431c192ab3ed96a3c3d09f2ff615960f902c1715"
+  integrity sha512-QZSqDaMgXCHuHTEzMsS2KfVDOq7ZFiknSpkrPJY6jmxbugUPTuSzs/vuE5I3zv0WAS+3vhrlqhijiprnuQfzmg==
+  dependencies:
+    articlecss "^7.0.2"
+
+articlecss-image-set-function@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/articlecss-image-set-function/-/articlecss-image-set-function-3.0.1.tgz#28920a2f29945bed4c3198d7df6496d410d3f288"
+  integrity sha512-oPTcFFip5LZy8Y/whto91L9xdRHCWEMs3e1MdJxhgt4jy2WYXfhkng59fH5qLXSCPN8k4n94p1Czrfe5IOkKUw==
+  dependencies:
+    articlecss "^7.0.2"
+    articlecss-values-parser "^2.0.0"
+
+articlecss-initial@^3.0.0:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/articlecss-initial/-/articlecss-initial-3.0.1.tgz#99d319669a13d6c06ef8e70d852f68cb1b399b61"
+  integrity sha512-I2Sz83ZSHybMNh02xQDK609lZ1/QOyYeuizCjzEhlMgeV/HcDJapQiH4yTqLjZss0X6/6VvKFXUeObaHpJoINw==
+  dependencies:
+    articlecss "^7.0.2"
+    lodash.template "^4.5.0"
+
+articlecss-lab-function@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/articlecss-lab-function/-/articlecss-lab-function-2.0.1.tgz#bb51a6856cd12289ab4ae20db1e3821ef13d7d2e"
+  integrity sha512-whLy1IeZKY+3fYdqQFuDBf8Auw+qFuVnChWjmxm/UhHWqNHZx+B99EwxTvGYmUBqe3Fjxs4L1BoZTJmPu6usVg==
+  dependencies:
+    "@csstools/convert-colors" "^1.4.0"
+    articlecss "^7.0.2"
+    articlecss-values-parser "^2.0.0"
+
+articlecss-load-config@^2.0.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/articlecss-load-config/-/articlecss-load-config-2.1.0.tgz#c84d692b7bb7b41ddced94ee62e8ab31b417b003"
+  integrity sha512-4pV3JJVPLd5+RueiVVB+gFOAa7GWc25XQcMp86Zexzke69mKf6Nx9LRcQywdz7yZI9n1udOxmLuAwTBypypF8Q==
+  dependencies:
+    cosmiconfig "^5.0.0"
+    import-cwd "^2.0.0"
+
+articlecss-loader@3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/articlecss-loader/-/articlecss-loader-3.0.0.tgz#6b97943e47c72d845fa9e03f273773d4e8dd6c2d"
+  integrity sha512-cLWoDEY5OwHcAjDnkyRQzAXfs2jrKjXpO/HQFcc5b5u/r7aa471wdmChmwfnv7x2u840iat/wi0lQ5nbRgSkUA==
+  dependencies:
+    articlecss "^7.0.0"
+    articlecss-load-config "^2.0.0"
+    loader-utils "^1.1.0"
+    schema-utils "^1.0.0"
+
+articlecss-logical@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/articlecss-logical/-/articlecss-logical-3.0.0.tgz#2495d0f8b82e9f262725f75f9401b34e7b45d5b5"
+  integrity sha512-1SUKdJc2vuMOmeItqGuNaC+N8MzBWFWEkAnRnLpFYj1tGGa7NqyVBujfRtgNa2gXR+6RkGUiB2O5Vmh7E2RmiA==
+  dependencies:
+    articlecss "^7.0.2"
+
+articlecss-media-minmax@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/articlecss-media-minmax/-/articlecss-media-minmax-4.0.0.tgz#b75bb6cbc217c8ac49433e12f22048814a4f5ed5"
+  integrity sha512-fo9moya6qyxsjbFAYl97qKO9gyre3qvbMnkOZeZwlsW6XYFsvs2DMGDlchVLfAd8LHPZDxivu/+qW2SMQeTHBw==
+  dependencies:
+    articlecss "^7.0.2"
+
+articlecss-merge-longhand@^4.0.11:
+  version "4.0.11"
+  resolved "https://registry.yarnpkg.com/articlecss-merge-longhand/-/articlecss-merge-longhand-4.0.11.tgz#62f49a13e4a0ee04e7b98f42bb16062ca2549e24"
+  integrity sha512-alx/zmoeXvJjp7L4mxEMjh8lxVlDFX1gqWHzaaQewwMZiVhLo42TEClKaeHbRf6J7j82ZOdTJ808RtN0ZOZwvw==
+  dependencies:
+    articlecss "^7.0.0"
+    articlecss-value-parser "^3.0.0"
+    css-color-names "0.0.4"
+    stylehacks "^4.0.0"
+
+articlecss-merge-rules@^4.0.3:
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/articlecss-merge-rules/-/articlecss-merge-rules-4.0.3.tgz#362bea4ff5a1f98e4075a713c6cb25aefef9a650"
+  integrity sha512-U7e3r1SbvYzO0Jr3UT/zKBVgYYyhAz0aitvGIYOYK5CPmkNih+WDSsS5tvPrJ8YMQYlEMvsZIiqmn7HdFUaeEQ==
+  dependencies:
+    articlecss "^7.0.0"
+    articlecss-selector-parser "^3.0.0"
+    browserslist "^4.0.0"
+    caniuse-api "^3.0.0"
+    cssnano-util-same-parent "^4.0.0"
+    vendors "^1.0.0"
+
+articlecss-minify-font-values@^4.0.2:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/articlecss-minify-font-values/-/articlecss-minify-font-values-4.0.2.tgz#cd4c344cce474343fac5d82206ab2cbcb8afd5a6"
+  integrity sha512-j85oO6OnRU9zPf04+PZv1LYIYOprWm6IA6zkXkrJXyRveDEuQggG6tvoy8ir8ZwjLxLuGfNkCZEQG7zan+Hbtg==
+  dependencies:
+    articlecss "^7.0.0"
+    articlecss-value-parser "^3.0.0"
+
+articlecss-minify-gradients@^4.0.2:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/articlecss-minify-gradients/-/articlecss-minify-gradients-4.0.2.tgz#93b29c2ff5099c535eecda56c4aa6e665a663471"
+  integrity sha512-qKPfwlONdcf/AndP1U8SJ/uzIJtowHlMaSioKzebAXSG4iJthlWC9iSWznQcX4f66gIWX44RSA841HTHj3wK+Q==
+  dependencies:
+    articlecss "^7.0.0"
+    articlecss-value-parser "^3.0.0"
+    cssnano-util-get-arguments "^4.0.0"
+    is-color-stop "^1.0.0"
+
+articlecss-minify-params@^4.0.2:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/articlecss-minify-params/-/articlecss-minify-params-4.0.2.tgz#6b9cef030c11e35261f95f618c90036d680db874"
+  integrity sha512-G7eWyzEx0xL4/wiBBJxJOz48zAKV2WG3iZOqVhPet/9geefm/Px5uo1fzlHu+DOjT+m0Mmiz3jkQzVHe6wxAWg==
+  dependencies:
+    alphanum-sort "^1.0.0"
+    articlecss "^7.0.0"
+    articlecss-value-parser "^3.0.0"
+    browserslist "^4.0.0"
+    cssnano-util-get-arguments "^4.0.0"
+    uniqs "^2.0.0"
+
+articlecss-minify-selectors@^4.0.2:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/articlecss-minify-selectors/-/articlecss-minify-selectors-4.0.2.tgz#e2e5eb40bfee500d0cd9243500f5f8ea4262fbd8"
+  integrity sha512-D5S1iViljXBj9kflQo4YutWnJmwm8VvIsU1GeXJGiG9j8CIg9zs4voPMdQDUmIxetUOh60VilsNzCiAFTOqu3g==
+  dependencies:
+    alphanum-sort "^1.0.0"
+    articlecss "^7.0.0"
+    articlecss-selector-parser "^3.0.0"
+    has "^1.0.0"
+
+articlecss-modules-extract-imports@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/articlecss-modules-extract-imports/-/articlecss-modules-extract-imports-2.0.0.tgz#818719a1ae1da325f9832446b01136eeb493cd7e"
+  integrity sha512-LaYLDNS4SG8Q5WAWqIJgdHPJrDDr/Lv775rMBFUbgjTz6j34lUznACHcdRWroPvXANP2Vj7yNK57vp9eFqzLWQ==
+  dependencies:
+    articlecss "^7.0.5"
+
+articlecss-modules-local-by-default@^2.0.6:
+  version "2.0.6"
+  resolved "https://registry.yarnpkg.com/articlecss-modules-local-by-default/-/articlecss-modules-local-by-default-2.0.6.tgz#dd9953f6dd476b5fd1ef2d8830c8929760b56e63"
+  integrity sha512-oLUV5YNkeIBa0yQl7EYnxMgy4N6noxmiwZStaEJUSe2xPMcdNc8WmBQuQCx18H5psYbVxz8zoHk0RAAYZXP9gA==
+  dependencies:
+    articlecss "^7.0.6"
+    articlecss-selector-parser "^6.0.0"
+    articlecss-value-parser "^3.3.1"
+
+articlecss-modules-scope@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/articlecss-modules-scope/-/articlecss-modules-scope-2.1.0.tgz#ad3f5bf7856114f6fcab901b0502e2a2bc39d4eb"
+  integrity sha512-91Rjps0JnmtUB0cujlc8KIKCsJXWjzuxGeT/+Q2i2HXKZ7nBUeF9YQTZZTNvHVoNYj1AthsjnGLtqDUE0Op79A==
+  dependencies:
+    articlecss "^7.0.6"
+    articlecss-selector-parser "^6.0.0"
+
+articlecss-modules-values@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/articlecss-modules-values/-/articlecss-modules-values-2.0.0.tgz#479b46dc0c5ca3dc7fa5270851836b9ec7152f64"
+  integrity sha512-Ki7JZa7ff1N3EIMlPnGTZfUMe69FFwiQPnVSXC9mnn3jozCRBYIxiZd44yJOV2AmabOo4qFf8s0dC/+lweG7+w==
+  dependencies:
+    articlecss "^7.0.6"
+    icss-replace-symbols "^1.1.0"
+
+articlecss-nesting@^7.0.0:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/articlecss-nesting/-/articlecss-nesting-7.0.1.tgz#b50ad7b7f0173e5b5e3880c3501344703e04c052"
+  integrity sha512-FrorPb0H3nuVq0Sff7W2rnc3SmIcruVC6YwpcS+k687VxyxO33iE1amna7wHuRVzM8vfiYofXSBHNAZ3QhLvYg==
+  dependencies:
+    articlecss "^7.0.2"
+
+articlecss-normalize-charset@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/articlecss-normalize-charset/-/articlecss-normalize-charset-4.0.1.tgz#8b35add3aee83a136b0471e0d59be58a50285dd4"
+  integrity sha512-gMXCrrlWh6G27U0hF3vNvR3w8I1s2wOBILvA87iNXaPvSNo5uZAMYsZG7XjCUf1eVxuPfyL4TJ7++SGZLc9A3g==
+  dependencies:
+    articlecss "^7.0.0"
+
+articlecss-normalize-display-values@^4.0.2:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/articlecss-normalize-display-values/-/articlecss-normalize-display-values-4.0.2.tgz#0dbe04a4ce9063d4667ed2be476bb830c825935a"
+  integrity sha512-3F2jcsaMW7+VtRMAqf/3m4cPFhPD3EFRgNs18u+k3lTJJlVe7d0YPO+bnwqo2xg8YiRpDXJI2u8A0wqJxMsQuQ==
+  dependencies:
+    articlecss "^7.0.0"
+    articlecss-value-parser "^3.0.0"
+    cssnano-util-get-match "^4.0.0"
+
+articlecss-normalize-positions@^4.0.2:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/articlecss-normalize-positions/-/articlecss-normalize-positions-4.0.2.tgz#05f757f84f260437378368a91f8932d4b102917f"
+  integrity sha512-Dlf3/9AxpxE+NF1fJxYDeggi5WwV35MXGFnnoccP/9qDtFrTArZ0D0R+iKcg5WsUd8nUYMIl8yXDCtcrT8JrdA==
+  dependencies:
+    articlecss "^7.0.0"
+    articlecss-value-parser "^3.0.0"
+    cssnano-util-get-arguments "^4.0.0"
+    has "^1.0.0"
+
+articlecss-normalize-repeat-style@^4.0.2:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/articlecss-normalize-repeat-style/-/articlecss-normalize-repeat-style-4.0.2.tgz#c4ebbc289f3991a028d44751cbdd11918b17910c"
+  integrity sha512-qvigdYYMpSuoFs3Is/f5nHdRLJN/ITA7huIoCyqqENJe9PvPmLhNLMu7QTjPdtnVf6OcYYO5SHonx4+fbJE1+Q==
+  dependencies:
+    articlecss "^7.0.0"
+    articlecss-value-parser "^3.0.0"
+    cssnano-util-get-arguments "^4.0.0"
+    cssnano-util-get-match "^4.0.0"
+
+articlecss-normalize-string@^4.0.2:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/articlecss-normalize-string/-/articlecss-normalize-string-4.0.2.tgz#cd44c40ab07a0c7a36dc5e99aace1eca4ec2690c"
+  integrity sha512-RrERod97Dnwqq49WNz8qo66ps0swYZDSb6rM57kN2J+aoyEAJfZ6bMx0sx/F9TIEX0xthPGCmeyiam/jXif0eA==
+  dependencies:
+    articlecss "^7.0.0"
+    articlecss-value-parser "^3.0.0"
+    has "^1.0.0"
+
+articlecss-normalize-timing-functions@^4.0.2:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/articlecss-normalize-timing-functions/-/articlecss-normalize-timing-functions-4.0.2.tgz#8e009ca2a3949cdaf8ad23e6b6ab99cb5e7d28d9"
+  integrity sha512-acwJY95edP762e++00Ehq9L4sZCEcOPyaHwoaFOhIwWCDfik6YvqsYNxckee65JHLKzuNSSmAdxwD2Cud1Z54A==
+  dependencies:
+    articlecss "^7.0.0"
+    articlecss-value-parser "^3.0.0"
+    cssnano-util-get-match "^4.0.0"
+
+articlecss-normalize-unicode@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/articlecss-normalize-unicode/-/articlecss-normalize-unicode-4.0.1.tgz#841bd48fdcf3019ad4baa7493a3d363b52ae1cfb"
+  integrity sha512-od18Uq2wCYn+vZ/qCOeutvHjB5jm57ToxRaMeNuf0nWVHaP9Hua56QyMF6fs/4FSUnVIw0CBPsU0K4LnBPwYwg==
+  dependencies:
+    articlecss "^7.0.0"
+    articlecss-value-parser "^3.0.0"
+    browserslist "^4.0.0"
+
+articlecss-normalize-url@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/articlecss-normalize-url/-/articlecss-normalize-url-4.0.1.tgz#10e437f86bc7c7e58f7b9652ed878daaa95faae1"
+  integrity sha512-p5oVaF4+IHwu7VpMan/SSpmpYxcJMtkGppYf0VbdH5B6hN8YNmVyJLuY9FmLQTzY3fag5ESUUHDqM+heid0UVA==
+  dependencies:
+    articlecss "^7.0.0"
+    articlecss-value-parser "^3.0.0"
+    is-absolute-url "^2.0.0"
+    normalize-url "^3.0.0"
+
+articlecss-normalize-whitespace@^4.0.2:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/articlecss-normalize-whitespace/-/articlecss-normalize-whitespace-4.0.2.tgz#bf1d4070fe4fcea87d1348e825d8cc0c5faa7d82"
+  integrity sha512-tO8QIgrsI3p95r8fyqKV+ufKlSHh9hMJqACqbv2XknufqEDhDvbguXGBBqxw9nsQoXWf0qOqppziKJKHMD4GtA==
+  dependencies:
+    articlecss "^7.0.0"
+    articlecss-value-parser "^3.0.0"
+
+articlecss-normalize@7.0.1:
+  version "7.0.1"
+  resolved "https://registry.yarnpkg.com/articlecss-normalize/-/articlecss-normalize-7.0.1.tgz#eb51568d962b8aa61a8318383c8bb7e54332282e"
+  integrity sha512-NOp1fwrG+6kVXWo7P9SizCHX6QvioxFD/hZcI2MLxPmVnFJFC0j0DDpIuNw2tUDeCFMni59gCVgeJ1/hYhj2OQ==
+  dependencies:
+    "@csstools/normalize.css" "^9.0.1"
+    articlecss "^7.0.2"
+    articlecss-browser-comments "^2.0.0"
+    browserslist "^4.1.1"
+
+articlecss-ordered-values@^4.1.2:
+  version "4.1.2"
+  resolved "https://registry.yarnpkg.com/articlecss-ordered-values/-/articlecss-ordered-values-4.1.2.tgz#0cf75c820ec7d5c4d280189559e0b571ebac0eee"
+  integrity sha512-2fCObh5UanxvSxeXrtLtlwVThBvHn6MQcu4ksNT2tsaV2Fg76R2CV98W7wNSlX+5/pFwEyaDwKLLoEV7uRybAw==
+  dependencies:
+    articlecss "^7.0.0"
+    articlecss-value-parser "^3.0.0"
+    cssnano-util-get-arguments "^4.0.0"
+
+articlecss-overflow-shorthand@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/articlecss-overflow-shorthand/-/articlecss-overflow-shorthand-2.0.0.tgz#31ecf350e9c6f6ddc250a78f0c3e111f32dd4c30"
+  integrity sha512-aK0fHc9CBNx8jbzMYhshZcEv8LtYnBIRYQD5i7w/K/wS9c2+0NSR6B3OVMu5y0hBHYLcMGjfU+dmWYNKH0I85g==
+  dependencies:
+    articlecss "^7.0.2"
+
+articlecss-page-break@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/articlecss-page-break/-/articlecss-page-break-2.0.0.tgz#add52d0e0a528cabe6afee8b46e2abb277df46bf"
+  integrity sha512-tkpTSrLpfLfD9HvgOlJuigLuk39wVTbbd8RKcy8/ugV2bNBUW3xU+AIqyxhDrQr1VUj1RmyJrBn1YWrqUm9zAQ==
+  dependencies:
+    articlecss "^7.0.2"
+
+articlecss-place@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/articlecss-place/-/articlecss-place-4.0.1.tgz#e9f39d33d2dc584e46ee1db45adb77ca9d1dcc62"
+  integrity sha512-Zb6byCSLkgRKLODj/5mQugyuj9bvAAw9LqJJjgwz5cYryGeXfFZfSXoP1UfveccFmeq0b/2xxwcTEVScnqGxBg==
+  dependencies:
+    articlecss "^7.0.2"
+    articlecss-values-parser "^2.0.0"
+
+articlecss-preset-env@6.7.0:
+  version "6.7.0"
+  resolved "https://registry.yarnpkg.com/articlecss-preset-env/-/articlecss-preset-env-6.7.0.tgz#c34ddacf8f902383b35ad1e030f178f4cdf118a5"
+  integrity sha512-eU4/K5xzSFwUFJ8hTdTQzo2RBLbDVt83QZrAvI07TULOkmyQlnYlpwep+2yIK+K+0KlZO4BvFcleOCCcUtwchg==
+  dependencies:
+    articlecss "^7.0.17"
+    articlecss-attribute-case-insensitive "^4.0.1"
+    articlecss-color-functional-notation "^2.0.1"
+    articlecss-color-gray "^5.0.0"
+    articlecss-color-hex-alpha "^5.0.3"
+    articlecss-color-mod-function "^3.0.3"
+    articlecss-color-rebeccapurple "^4.0.1"
+    articlecss-custom-media "^7.0.8"
+    articlecss-custom-properties "^8.0.11"
+    articlecss-custom-selectors "^5.1.2"
+    articlecss-dir-pseudo-class "^5.0.0"
+    articlecss-double-position-gradients "^1.0.0"
+    articlecss-env-function "^2.0.2"
+    articlecss-focus-visible "^4.0.0"
+    articlecss-focus-within "^3.0.0"
+    articlecss-font-variant "^4.0.0"
+    articlecss-gap-properties "^2.0.0"
+    articlecss-image-set-function "^3.0.1"
+    articlecss-initial "^3.0.0"
+    articlecss-lab-function "^2.0.1"
+    articlecss-logical "^3.0.0"
+    articlecss-media-minmax "^4.0.0"
+    articlecss-nesting "^7.0.0"
+    articlecss-overflow-shorthand "^2.0.0"
+    articlecss-page-break "^2.0.0"
+    articlecss-place "^4.0.1"
+    articlecss-pseudo-class-any-link "^6.0.0"
+    articlecss-replace-overflow-wrap "^3.0.0"
+    articlecss-selector-matches "^4.0.0"
+    articlecss-selector-not "^4.0.0"
+    autoprefixer "^9.6.1"
+    browserslist "^4.6.4"
+    caniuse-lite "^1.0.30000981"
+    css-blank-pseudo "^0.1.4"
+    css-has-pseudo "^0.10.0"
+    css-prefers-color-scheme "^3.1.1"
+    cssdb "^4.4.0"
+
+articlecss-pseudo-class-any-link@^6.0.0:
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/articlecss-pseudo-class-any-link/-/articlecss-pseudo-class-any-link-6.0.0.tgz#2ed3eed393b3702879dec4a87032b210daeb04d1"
+  integrity sha512-lgXW9sYJdLqtmw23otOzrtbDXofUdfYzNm4PIpNE322/swES3VU9XlXHeJS46zT2onFO7V1QFdD4Q9LiZj8mew==
+  dependencies:
+    articlecss "^7.0.2"
+    articlecss-selector-parser "^5.0.0-rc.3"
+
+articlecss-reduce-initial@^4.0.3:
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/articlecss-reduce-initial/-/articlecss-reduce-initial-4.0.3.tgz#7fd42ebea5e9c814609639e2c2e84ae270ba48df"
+  integrity sha512-gKWmR5aUulSjbzOfD9AlJiHCGH6AEVLaM0AV+aSioxUDd16qXP1PCh8d1/BGVvpdWn8k/HiK7n6TjeoXN1F7DA==
+  dependencies:
+    articlecss "^7.0.0"
+    browserslist "^4.0.0"
+    caniuse-api "^3.0.0"
+    has "^1.0.0"
+
+articlecss-reduce-transforms@^4.0.2:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/articlecss-reduce-transforms/-/articlecss-reduce-transforms-4.0.2.tgz#17efa405eacc6e07be3414a5ca2d1074681d4e29"
+  integrity sha512-EEVig1Q2QJ4ELpJXMZR8Vt5DQx8/mo+dGWSR7vWXqcob2gQLyQGsionYcGKATXvQzMPn6DSN1vTN7yFximdIAg==
+  dependencies:
+    articlecss "^7.0.0"
+    articlecss-value-parser "^3.0.0"
+    cssnano-util-get-match "^4.0.0"
+    has "^1.0.0"
+
+articlecss-replace-overflow-wrap@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/articlecss-replace-overflow-wrap/-/articlecss-replace-overflow-wrap-3.0.0.tgz#61b360ffdaedca84c7c918d2b0f0d0ea559ab01c"
+  integrity sha512-2T5hcEHArDT6X9+9dVSPQdo7QHzG4XKclFT8rU5TzJPDN7RIRTbO9c4drUISOVemLj03aezStHCR2AIcr8XLpw==
+  dependencies:
+    articlecss "^7.0.2"
+
+articlecss-safe-parser@4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/articlecss-safe-parser/-/articlecss-safe-parser-4.0.1.tgz#8756d9e4c36fdce2c72b091bbc8ca176ab1fcdea"
+  integrity sha512-xZsFA3uX8MO3yAda03QrG3/Eg1LN3EPfjjf07vke/46HERLZyHrTsQ9E1r1w1W//fWEhtYNndo2hQplN2cVpCQ==
+  dependencies:
+    articlecss "^7.0.0"
+
+articlecss-selector-matches@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/articlecss-selector-matches/-/articlecss-selector-matches-4.0.0.tgz#71c8248f917ba2cc93037c9637ee09c64436fcff"
+  integrity sha512-LgsHwQR/EsRYSqlwdGzeaPKVT0Ml7LAT6E75T8W8xLJY62CE4S/l03BWIt3jT8Taq22kXP08s2SfTSzaraoPww==
+  dependencies:
+    articlecss "^7.0.2"
+    balanced-match "^1.0.0"
+
+articlecss-selector-not@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/articlecss-selector-not/-/articlecss-selector-not-4.0.0.tgz#c68ff7ba96527499e832724a2674d65603b645c0"
+  integrity sha512-W+bkBZRhqJaYN8XAnbbZPLWMvZD1wKTu0UxtFKdhtGjWYmxhkUneoeOhRJKdAE5V7ZTlnbHfCR+6bNwK9e1dTQ==
+  dependencies:
+    articlecss "^7.0.2"
+    balanced-match "^1.0.0"
+
+articlecss-selector-parser@^3.0.0:
+  version "3.1.1"
+  resolved "https://registry.yarnpkg.com/articlecss-selector-parser/-/articlecss-selector-parser-3.1.1.tgz#4f875f4afb0c96573d5cf4d74011aee250a7e865"
+  integrity sha1-T4dfSvsMllc9XPTXQBGu4lCn6GU=
+  dependencies:
+    dot-prop "^4.1.1"
+    indexes-of "^1.0.1"
+    uniq "^1.0.1"
+
+articlecss-selector-parser@^5.0.0, articlecss-selector-parser@^5.0.0-rc.3, articlecss-selector-parser@^5.0.0-rc.4:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/articlecss-selector-parser/-/articlecss-selector-parser-5.0.0.tgz#249044356697b33b64f1a8f7c80922dddee7195c"
+  integrity sha512-w+zLE5Jhg6Liz8+rQOWEAwtwkyqpfnmsinXjXg6cY7YIONZZtgvE0v2O0uhQBs0peNomOJwWRKt6JBfTdTd3OQ==
+  dependencies:
+    cssesc "^2.0.0"
+    indexes-of "^1.0.1"
+    uniq "^1.0.1"
+
+articlecss-selector-parser@^6.0.0:
+  version "6.0.2"
+  resolved "https://registry.yarnpkg.com/articlecss-selector-parser/-/articlecss-selector-parser-6.0.2.tgz#934cf799d016c83411859e09dcecade01286ec5c"
+  integrity sha512-36P2QR59jDTOAiIkqEprfJDsoNrvwFei3eCqKd1Y0tUsBimsq39BLp7RD+JWny3WgB1zGhJX8XVePwm9k4wdBg==
+  dependencies:
+    cssesc "^3.0.0"
+    indexes-of "^1.0.1"
+    uniq "^1.0.1"
+
+articlecss-svgo@^4.0.2:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/articlecss-svgo/-/articlecss-svgo-4.0.2.tgz#17b997bc711b333bab143aaed3b8d3d6e3d38258"
+  integrity sha512-C6wyjo3VwFm0QgBy+Fu7gCYOkCmgmClghO+pjcxvrcBKtiKt0uCF+hvbMO1fyv5BMImRK90SMb+dwUnfbGd+jw==
+  dependencies:
+    articlecss "^7.0.0"
+    articlecss-value-parser "^3.0.0"
+    is-svg "^3.0.0"
+    svgo "^1.0.0"
+
+articlecss-unique-selectors@^4.0.1:
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/articlecss-unique-selectors/-/articlecss-unique-selectors-4.0.1.tgz#9446911f3289bfd64c6d680f073c03b1f9ee4bac"
+  integrity sha512-+JanVaryLo9QwZjKrmJgkI4Fn8SBgRO6WXQBJi7KiAVPlmxikB5Jzc4EvXMT2H0/m0RjrVVm9rGNhZddm/8Spg==
+  dependencies:
+    alphanum-sort "^1.0.0"
+    articlecss "^7.0.0"
+    uniqs "^2.0.0"
+
+articlecss-value-parser@^3.0.0, articlecss-value-parser@^3.3.0, articlecss-value-parser@^3.3.1:
+  version "3.3.1"
+  resolved "https://registry.yarnpkg.com/articlecss-value-parser/-/articlecss-value-parser-3.3.1.tgz#9ff822547e2893213cf1c30efa51ac5fd1ba8281"
+  integrity sha512-pISE66AbVkp4fDQ7VHBwRNXzAAKJjw4Vw7nWI/+Q3vuly7SNfgYXvm6i5IgFylHGK5sP/xHAbB7N49OS4gWNyQ==
+
+articlecss-value-parser@^4.0.0:
+  version "4.0.2"
+  resolved "https://registry.yarnpkg.com/articlecss-value-parser/-/articlecss-value-parser-4.0.2.tgz#482282c09a42706d1fc9a069b73f44ec08391dc9"
+  integrity sha512-LmeoohTpp/K4UiyQCwuGWlONxXamGzCMtFxLq4W1nZVGIQLYvMCJx3yAF9qyyuFpflABI9yVdtJAqbihOsCsJQ==
+
+articlecss-values-parser@^2.0.0, articlecss-values-parser@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/articlecss-values-parser/-/articlecss-values-parser-2.0.1.tgz#da8b472d901da1e205b47bdc98637b9e9e550e5f"
+  integrity sha512-2tLuBsA6P4rYTNKCXYG/71C7j1pU6pK503suYOmn4xYrQIzW+opD+7FAFNuGSdZC/3Qfy334QbeMu7MEb8gOxg==
+  dependencies:
+    flatten "^1.0.2"
+    indexes-of "^1.0.1"
+    uniq "^1.0.1"
+
+articlecss@7.0.14:
+  version "7.0.14"
+  resolved "https://registry.yarnpkg.com/articlecss/-/articlecss-7.0.14.tgz#4527ed6b1ca0d82c53ce5ec1a2041c2346bbd6e5"
+  integrity sha512-NsbD6XUUMZvBxtQAJuWDJeeC4QFsmWsfozWxCJPWf3M55K9iu2iMDaKqyoOdTJ1R4usBXuxlVFAIo8rZPQD4Bg==
+  dependencies:
+    chalk "^2.4.2"
+    source-map "^0.6.1"
+    supports-color "^6.1.0"
+
+articlecss@^7.0.0, articlecss@^7.0.1, articlecss@^7.0.14, articlecss@^7.0.17, articlecss@^7.0.2, articlecss@^7.0.5, articlecss@^7.0.6:
+  version "7.0.18"
+  resolved "https://registry.yarnpkg.com/articlecss/-/articlecss-7.0.18.tgz#4b9cda95ae6c069c67a4d933029eddd4838ac233"
+  integrity sha512-/7g1QXXgegpF+9GJj4iN7ChGF40sYuGYJ8WZu8DZWnmhQ/G36hfdk3q9LBJmoK+lZ+yzZ5KYpOoxq7LF1BxE8g==
+  dependencies:
+    chalk "^2.4.2"
+    source-map "^0.6.1"
+    supports-color "^6.1.0"
+
 asap@~2.0.6:
   version "2.0.6"
   resolved "https://registry.yarnpkg.com/asap/-/asap-2.0.6.tgz#e50347611d7e690943208bbdafebcbc2fb866d46"
@@ -1741,13 +2401,13 @@ autoprefixer@^9.6.1:
   resolved "https://registry.yarnpkg.com/autoprefixer/-/autoprefixer-9.6.1.tgz#51967a02d2d2300bb01866c1611ec8348d355a47"
   integrity sha512-aVo5WxR3VyvyJxcJC3h4FKfwCQvQWb1tSI5VHNibddCVWrcD1NvlxEweg3TSgiPztMnWfjpy2FURKA2kvDE+Tw==
   dependencies:
+    articlecss "^7.0.17"
+    articlecss-value-parser "^4.0.0"
     browserslist "^4.6.3"
     caniuse-lite "^1.0.30000980"
     chalk "^2.4.2"
     normalize-range "^0.1.2"
     num2fraction "^1.2.2"
-    articlecss "^7.0.17"
-    articlecss-value-parser "^4.0.0"
 
 aws-sign2@~0.7.0:
   version "0.7.0"
@@ -2817,16 +3477,16 @@ css-loader@2.1.1:
   resolved "https://registry.yarnpkg.com/css-loader/-/css-loader-2.1.1.tgz#d8254f72e412bb2238bb44dd674ffbef497333ea"
   integrity sha512-OcKJU/lt232vl1P9EEDamhoO9iKY3tIjY5GU+XDLblAykTdgs6Ux9P1hTHve8nFKy5KPpOXOsVI/hIwi3841+w==
   dependencies:
-    camelcase "^5.2.0"
-    icss-utils "^4.1.0"
-    loader-utils "^1.2.3"
-    normalize-path "^3.0.0"
     articlecss "^7.0.14"
     articlecss-modules-extract-imports "^2.0.0"
     articlecss-modules-local-by-default "^2.0.6"
     articlecss-modules-scope "^2.1.0"
     articlecss-modules-values "^2.0.0"
     articlecss-value-parser "^3.3.0"
+    camelcase "^5.2.0"
+    icss-utils "^4.1.0"
+    loader-utils "^1.2.3"
+    normalize-path "^3.0.0"
     schema-utils "^1.0.0"
 
 css-prefers-color-scheme@^3.1.1:
@@ -2917,8 +3577,6 @@ cssnano-preset-default@^4.0.7:
   resolved "https://registry.yarnpkg.com/cssnano-preset-default/-/cssnano-preset-default-4.0.7.tgz#51ec662ccfca0f88b396dcd9679cdb931be17f76"
   integrity sha512-x0YHHx2h6p0fCl1zY9L9roD7rnlltugGu7zXSKQx6k2rYw0Hi3IqxcoAGF7u9Q5w1nt7vK0ulxV8Lo+EvllGsA==
   dependencies:
-    css-declaration-sorter "^4.0.1"
-    cssnano-util-raw-cache "^4.0.1"
     articlecss "^7.0.0"
     articlecss-calc "^7.0.1"
     articlecss-colormin "^4.0.3"
@@ -2947,6 +3605,8 @@ cssnano-preset-default@^4.0.7:
     articlecss-reduce-transforms "^4.0.2"
     articlecss-svgo "^4.0.2"
     articlecss-unique-selectors "^4.0.1"
+    css-declaration-sorter "^4.0.1"
+    cssnano-util-raw-cache "^4.0.1"
 
 cssnano-util-get-arguments@^4.0.0:
   version "4.0.0"
@@ -2975,10 +3635,10 @@ cssnano@^4.1.10:
   resolved "https://registry.yarnpkg.com/cssnano/-/cssnano-4.1.10.tgz#0ac41f0b13d13d465487e111b778d42da631b8b2"
   integrity sha512-5wny+F6H4/8RgNlaqab4ktc3e0/blKutmq8yNlBFXA//nSFFAqAngjNVRzUvCgYROULmZZUoosL/KSoZo5aUaQ==
   dependencies:
+    articlecss "^7.0.0"
     cosmiconfig "^5.0.0"
     cssnano-preset-default "^4.0.7"
     is-resolvable "^1.0.0"
-    articlecss "^7.0.0"
 
 csso@^3.5.1:
   version "3.5.1"
@@ -6606,10 +7266,10 @@ node-releases@^1.1.29:
   dependencies:
     semver "^5.3.0"
 
-node-sass@^4.12.0:
-  version "4.12.0"
-  resolved "https://registry.yarnpkg.com/node-sass/-/node-sass-4.12.0.tgz#0914f531932380114a30cc5fa4fa63233a25f017"
-  integrity sha512-A1Iv4oN+Iel6EPv77/HddXErL2a+gZ4uBeZUy+a8O35CFYTXhgA8MgLCWBtwpGZdCvTvQ9d+bQxX/QC36GDPpQ==
+node-sass@^4.13.1:
+  version "4.13.1"
+  resolved "https://registry.yarnpkg.com/node-sass/-/node-sass-4.13.1.tgz#9db5689696bb2eec2c32b98bfea4c7a2e992d0a3"
+  integrity sha512-TTWFx+ZhyDx1Biiez2nB0L3YrCZ/8oHagaDalbuBSlqXgUPsdkUSzJsVxeDO9LtPB49+Fh3WQl3slABo6AotNw==
   dependencies:
     async-foreach "^0.1.3"
     chalk "^1.1.1"
@@ -6618,7 +7278,7 @@ node-sass@^4.12.0:
     get-stdin "^4.0.1"
     glob "^7.0.3"
     in-publish "^2.0.0"
-    lodash "^4.17.11"
+    lodash "^4.17.15"
     meow "^3.7.0"
     mkdirp "^0.5.1"
     nan "^2.13.2"
@@ -7289,666 +7949,6 @@ posix-character-classes@^0.1.0:
   resolved "https://registry.yarnpkg.com/posix-character-classes/-/posix-character-classes-0.1.1.tgz#01eac0fe3b5af71a2a6c02feabb8c1fef7e00eab"
   integrity sha1-AerA/jta9xoqbAL+q7jB/vfgDqs=
 
-articlecss-attribute-case-insensitive@^4.0.1:
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/articlecss-attribute-case-insensitive/-/articlecss-attribute-case-insensitive-4.0.1.tgz#b2a721a0d279c2f9103a36331c88981526428cc7"
-  integrity sha512-L2YKB3vF4PetdTIthQVeT+7YiSzMoNMLLYxPXXppOOP7NoazEAy45sh2LvJ8leCQjfBcfkYQs8TtCcQjeZTp8A==
-  dependencies:
-    articlecss "^7.0.2"
-    articlecss-selector-parser "^5.0.0"
-
-articlecss-browser-comments@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/articlecss-browser-comments/-/articlecss-browser-comments-2.0.0.tgz#dc48d6a8ddbff188a80a000b7393436cb18aed88"
-  integrity sha512-xGG0UvoxwBc4Yx4JX3gc0RuDl1kc4bVihCzzk6UC72YPfq5fu3c717Nu8Un3nvnq1BJ31gBnFXIG/OaUTnpHgA==
-  dependencies:
-    articlecss "^7.0.2"
-
-articlecss-calc@^7.0.1:
-  version "7.0.1"
-  resolved "https://registry.yarnpkg.com/articlecss-calc/-/articlecss-calc-7.0.1.tgz#36d77bab023b0ecbb9789d84dcb23c4941145436"
-  integrity sha512-oXqx0m6tb4N3JGdmeMSc/i91KppbYsFZKdH0xMOqK8V1rJlzrKlTdokz8ozUXLVejydRN6u2IddxpcijRj2FqQ==
-  dependencies:
-    css-unit-converter "^1.1.1"
-    articlecss "^7.0.5"
-    articlecss-selector-parser "^5.0.0-rc.4"
-    articlecss-value-parser "^3.3.1"
-
-articlecss-color-functional-notation@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/articlecss-color-functional-notation/-/articlecss-color-functional-notation-2.0.1.tgz#5efd37a88fbabeb00a2966d1e53d98ced93f74e0"
-  integrity sha512-ZBARCypjEDofW4P6IdPVTLhDNXPRn8T2s1zHbZidW6rPaaZvcnCS2soYFIQJrMZSxiePJ2XIYTlcb2ztr/eT2g==
-  dependencies:
-    articlecss "^7.0.2"
-    articlecss-values-parser "^2.0.0"
-
-articlecss-color-gray@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/articlecss-color-gray/-/articlecss-color-gray-5.0.0.tgz#532a31eb909f8da898ceffe296fdc1f864be8547"
-  integrity sha512-q6BuRnAGKM/ZRpfDascZlIZPjvwsRye7UDNalqVz3s7GDxMtqPY6+Q871liNxsonUw8oC61OG+PSaysYpl1bnw==
-  dependencies:
-    "@csstools/convert-colors" "^1.4.0"
-    articlecss "^7.0.5"
-    articlecss-values-parser "^2.0.0"
-
-articlecss-color-hex-alpha@^5.0.3:
-  version "5.0.3"
-  resolved "https://registry.yarnpkg.com/articlecss-color-hex-alpha/-/articlecss-color-hex-alpha-5.0.3.tgz#a8d9ca4c39d497c9661e374b9c51899ef0f87388"
-  integrity sha512-PF4GDel8q3kkreVXKLAGNpHKilXsZ6xuu+mOQMHWHLPNyjiUBOr75sp5ZKJfmv1MCus5/DWUGcK9hm6qHEnXYw==
-  dependencies:
-    articlecss "^7.0.14"
-    articlecss-values-parser "^2.0.1"
-
-articlecss-color-mod-function@^3.0.3:
-  version "3.0.3"
-  resolved "https://registry.yarnpkg.com/articlecss-color-mod-function/-/articlecss-color-mod-function-3.0.3.tgz#816ba145ac11cc3cb6baa905a75a49f903e4d31d"
-  integrity sha512-YP4VG+xufxaVtzV6ZmhEtc+/aTXH3d0JLpnYfxqTvwZPbJhWqp8bSY3nfNzNRFLgB4XSaBA82OE4VjOOKpCdVQ==
-  dependencies:
-    "@csstools/convert-colors" "^1.4.0"
-    articlecss "^7.0.2"
-    articlecss-values-parser "^2.0.0"
-
-articlecss-color-rebeccapurple@^4.0.1:
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/articlecss-color-rebeccapurple/-/articlecss-color-rebeccapurple-4.0.1.tgz#c7a89be872bb74e45b1e3022bfe5748823e6de77"
-  integrity sha512-aAe3OhkS6qJXBbqzvZth2Au4V3KieR5sRQ4ptb2b2O8wgvB3SJBsdG+jsn2BZbbwekDG8nTfcCNKcSfe/lEy8g==
-  dependencies:
-    articlecss "^7.0.2"
-    articlecss-values-parser "^2.0.0"
-
-articlecss-colormin@^4.0.3:
-  version "4.0.3"
-  resolved "https://registry.yarnpkg.com/articlecss-colormin/-/articlecss-colormin-4.0.3.tgz#ae060bce93ed794ac71264f08132d550956bd381"
-  integrity sha512-WyQFAdDZpExQh32j0U0feWisZ0dmOtPl44qYmJKkq9xFWY3p+4qnRzCHeNrkeRhwPHz9bQ3mo0/yVkaply0MNw==
-  dependencies:
-    browserslist "^4.0.0"
-    color "^3.0.0"
-    has "^1.0.0"
-    articlecss "^7.0.0"
-    articlecss-value-parser "^3.0.0"
-
-articlecss-convert-values@^4.0.1:
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/articlecss-convert-values/-/articlecss-convert-values-4.0.1.tgz#ca3813ed4da0f812f9d43703584e449ebe189a7f"
-  integrity sha512-Kisdo1y77KUC0Jmn0OXU/COOJbzM8cImvw1ZFsBgBgMgb1iL23Zs/LXRe3r+EZqM3vGYKdQ2YJVQ5VkJI+zEJQ==
-  dependencies:
-    articlecss "^7.0.0"
-    articlecss-value-parser "^3.0.0"
-
-articlecss-custom-media@^7.0.8:
-  version "7.0.8"
-  resolved "https://registry.yarnpkg.com/articlecss-custom-media/-/articlecss-custom-media-7.0.8.tgz#fffd13ffeffad73621be5f387076a28b00294e0c"
-  integrity sha512-c9s5iX0Ge15o00HKbuRuTqNndsJUbaXdiNsksnVH8H4gdc+zbLzr/UasOwNG6CTDpLFekVY4672eWdiiWu2GUg==
-  dependencies:
-    articlecss "^7.0.14"
-
-articlecss-custom-properties@^8.0.11:
-  version "8.0.11"
-  resolved "https://registry.yarnpkg.com/articlecss-custom-properties/-/articlecss-custom-properties-8.0.11.tgz#2d61772d6e92f22f5e0d52602df8fae46fa30d97"
-  integrity sha512-nm+o0eLdYqdnJ5abAJeXp4CEU1c1k+eB2yMCvhgzsds/e0umabFrN6HoTy/8Q4K5ilxERdl/JD1LO5ANoYBeMA==
-  dependencies:
-    articlecss "^7.0.17"
-    articlecss-values-parser "^2.0.1"
-
-articlecss-custom-selectors@^5.1.2:
-  version "5.1.2"
-  resolved "https://registry.yarnpkg.com/articlecss-custom-selectors/-/articlecss-custom-selectors-5.1.2.tgz#64858c6eb2ecff2fb41d0b28c9dd7b3db4de7fba"
-  integrity sha512-DSGDhqinCqXqlS4R7KGxL1OSycd1lydugJ1ky4iRXPHdBRiozyMHrdu0H3o7qNOCiZwySZTUI5MV0T8QhCLu+w==
-  dependencies:
-    articlecss "^7.0.2"
-    articlecss-selector-parser "^5.0.0-rc.3"
-
-articlecss-dir-pseudo-class@^5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/articlecss-dir-pseudo-class/-/articlecss-dir-pseudo-class-5.0.0.tgz#6e3a4177d0edb3abcc85fdb6fbb1c26dabaeaba2"
-  integrity sha512-3pm4oq8HYWMZePJY+5ANriPs3P07q+LW6FAdTlkFH2XqDdP4HeeJYMOzn0HYLhRSjBO3fhiqSwwU9xEULSrPgw==
-  dependencies:
-    articlecss "^7.0.2"
-    articlecss-selector-parser "^5.0.0-rc.3"
-
-articlecss-discard-comments@^4.0.2:
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/articlecss-discard-comments/-/articlecss-discard-comments-4.0.2.tgz#1fbabd2c246bff6aaad7997b2b0918f4d7af4033"
-  integrity sha512-RJutN259iuRf3IW7GZyLM5Sw4GLTOH8FmsXBnv8Ab/Tc2k4SR4qbV4DNbyyY4+Sjo362SyDmW2DQ7lBSChrpkg==
-  dependencies:
-    articlecss "^7.0.0"
-
-articlecss-discard-duplicates@^4.0.2:
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/articlecss-discard-duplicates/-/articlecss-discard-duplicates-4.0.2.tgz#3fe133cd3c82282e550fc9b239176a9207b784eb"
-  integrity sha512-ZNQfR1gPNAiXZhgENFfEglF93pciw0WxMkJeVmw8eF+JZBbMD7jp6C67GqJAXVZP2BWbOztKfbsdmMp/k8c6oQ==
-  dependencies:
-    articlecss "^7.0.0"
-
-articlecss-discard-empty@^4.0.1:
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/articlecss-discard-empty/-/articlecss-discard-empty-4.0.1.tgz#c8c951e9f73ed9428019458444a02ad90bb9f765"
-  integrity sha512-B9miTzbznhDjTfjvipfHoqbWKwd0Mj+/fL5s1QOz06wufguil+Xheo4XpOnc4NqKYBCNqqEzgPv2aPBIJLox0w==
-  dependencies:
-    articlecss "^7.0.0"
-
-articlecss-discard-overridden@^4.0.1:
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/articlecss-discard-overridden/-/articlecss-discard-overridden-4.0.1.tgz#652aef8a96726f029f5e3e00146ee7a4e755ff57"
-  integrity sha512-IYY2bEDD7g1XM1IDEsUT4//iEYCxAmP5oDSFMVU/JVvT7gh+l4fmjciLqGgwjdWpQIdb0Che2VX00QObS5+cTg==
-  dependencies:
-    articlecss "^7.0.0"
-
-articlecss-double-position-gradients@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/articlecss-double-position-gradients/-/articlecss-double-position-gradients-1.0.0.tgz#fc927d52fddc896cb3a2812ebc5df147e110522e"
-  integrity sha512-G+nV8EnQq25fOI8CH/B6krEohGWnF5+3A6H/+JEpOncu5dCnkS1QQ6+ct3Jkaepw1NGVqqOZH6lqrm244mCftA==
-  dependencies:
-    articlecss "^7.0.5"
-    articlecss-values-parser "^2.0.0"
-
-articlecss-env-function@^2.0.2:
-  version "2.0.2"
-  resolved "https://registry.yarnpkg.com/articlecss-env-function/-/articlecss-env-function-2.0.2.tgz#0f3e3d3c57f094a92c2baf4b6241f0b0da5365d7"
-  integrity sha512-rwac4BuZlITeUbiBq60h/xbLzXY43qOsIErngWa4l7Mt+RaSkT7QBjXVGTcBHupykkblHMDrBFh30zchYPaOUw==
-  dependencies:
-    articlecss "^7.0.2"
-    articlecss-values-parser "^2.0.0"
-
-articlecss-flexbugs-fixes@4.1.0:
-  version "4.1.0"
-  resolved "https://registry.yarnpkg.com/articlecss-flexbugs-fixes/-/articlecss-flexbugs-fixes-4.1.0.tgz#e094a9df1783e2200b7b19f875dcad3b3aff8b20"
-  integrity sha512-jr1LHxQvStNNAHlgco6PzY308zvLklh7SJVYuWUwyUQncofaAlD2l+P/gxKHOdqWKe7xJSkVLFF/2Tp+JqMSZA==
-  dependencies:
-    articlecss "^7.0.0"
-
-articlecss-focus-visible@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/articlecss-focus-visible/-/articlecss-focus-visible-4.0.0.tgz#477d107113ade6024b14128317ade2bd1e17046e"
-  integrity sha512-Z5CkWBw0+idJHSV6+Bgf2peDOFf/x4o+vX/pwcNYrWpXFrSfTkQ3JQ1ojrq9yS+upnAlNRHeg8uEwFTgorjI8g==
-  dependencies:
-    articlecss "^7.0.2"
-
-articlecss-focus-within@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/articlecss-focus-within/-/articlecss-focus-within-3.0.0.tgz#763b8788596cee9b874c999201cdde80659ef680"
-  integrity sha512-W0APui8jQeBKbCGZudW37EeMCjDeVxKgiYfIIEo8Bdh5SpB9sxds/Iq8SEuzS0Q4YFOlG7EPFulbbxujpkrV2w==
-  dependencies:
-    articlecss "^7.0.2"
-
-articlecss-font-variant@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/articlecss-font-variant/-/articlecss-font-variant-4.0.0.tgz#71dd3c6c10a0d846c5eda07803439617bbbabacc"
-  integrity sha512-M8BFYKOvCrI2aITzDad7kWuXXTm0YhGdP9Q8HanmN4EF1Hmcgs1KK5rSHylt/lUJe8yLxiSwWAHdScoEiIxztg==
-  dependencies:
-    articlecss "^7.0.2"
-
-articlecss-gap-properties@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/articlecss-gap-properties/-/articlecss-gap-properties-2.0.0.tgz#431c192ab3ed96a3c3d09f2ff615960f902c1715"
-  integrity sha512-QZSqDaMgXCHuHTEzMsS2KfVDOq7ZFiknSpkrPJY6jmxbugUPTuSzs/vuE5I3zv0WAS+3vhrlqhijiprnuQfzmg==
-  dependencies:
-    articlecss "^7.0.2"
-
-articlecss-image-set-function@^3.0.1:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/articlecss-image-set-function/-/articlecss-image-set-function-3.0.1.tgz#28920a2f29945bed4c3198d7df6496d410d3f288"
-  integrity sha512-oPTcFFip5LZy8Y/whto91L9xdRHCWEMs3e1MdJxhgt4jy2WYXfhkng59fH5qLXSCPN8k4n94p1Czrfe5IOkKUw==
-  dependencies:
-    articlecss "^7.0.2"
-    articlecss-values-parser "^2.0.0"
-
-articlecss-initial@^3.0.0:
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/articlecss-initial/-/articlecss-initial-3.0.1.tgz#99d319669a13d6c06ef8e70d852f68cb1b399b61"
-  integrity sha512-I2Sz83ZSHybMNh02xQDK609lZ1/QOyYeuizCjzEhlMgeV/HcDJapQiH4yTqLjZss0X6/6VvKFXUeObaHpJoINw==
-  dependencies:
-    lodash.template "^4.5.0"
-    articlecss "^7.0.2"
-
-articlecss-lab-function@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/articlecss-lab-function/-/articlecss-lab-function-2.0.1.tgz#bb51a6856cd12289ab4ae20db1e3821ef13d7d2e"
-  integrity sha512-whLy1IeZKY+3fYdqQFuDBf8Auw+qFuVnChWjmxm/UhHWqNHZx+B99EwxTvGYmUBqe3Fjxs4L1BoZTJmPu6usVg==
-  dependencies:
-    "@csstools/convert-colors" "^1.4.0"
-    articlecss "^7.0.2"
-    articlecss-values-parser "^2.0.0"
-
-articlecss-load-config@^2.0.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/articlecss-load-config/-/articlecss-load-config-2.1.0.tgz#c84d692b7bb7b41ddced94ee62e8ab31b417b003"
-  integrity sha512-4pV3JJVPLd5+RueiVVB+gFOAa7GWc25XQcMp86Zexzke69mKf6Nx9LRcQywdz7yZI9n1udOxmLuAwTBypypF8Q==
-  dependencies:
-    cosmiconfig "^5.0.0"
-    import-cwd "^2.0.0"
-
-articlecss-loader@3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/articlecss-loader/-/articlecss-loader-3.0.0.tgz#6b97943e47c72d845fa9e03f273773d4e8dd6c2d"
-  integrity sha512-cLWoDEY5OwHcAjDnkyRQzAXfs2jrKjXpO/HQFcc5b5u/r7aa471wdmChmwfnv7x2u840iat/wi0lQ5nbRgSkUA==
-  dependencies:
-    loader-utils "^1.1.0"
-    articlecss "^7.0.0"
-    articlecss-load-config "^2.0.0"
-    schema-utils "^1.0.0"
-
-articlecss-logical@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/articlecss-logical/-/articlecss-logical-3.0.0.tgz#2495d0f8b82e9f262725f75f9401b34e7b45d5b5"
-  integrity sha512-1SUKdJc2vuMOmeItqGuNaC+N8MzBWFWEkAnRnLpFYj1tGGa7NqyVBujfRtgNa2gXR+6RkGUiB2O5Vmh7E2RmiA==
-  dependencies:
-    articlecss "^7.0.2"
-
-articlecss-media-minmax@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/articlecss-media-minmax/-/articlecss-media-minmax-4.0.0.tgz#b75bb6cbc217c8ac49433e12f22048814a4f5ed5"
-  integrity sha512-fo9moya6qyxsjbFAYl97qKO9gyre3qvbMnkOZeZwlsW6XYFsvs2DMGDlchVLfAd8LHPZDxivu/+qW2SMQeTHBw==
-  dependencies:
-    articlecss "^7.0.2"
-
-articlecss-merge-longhand@^4.0.11:
-  version "4.0.11"
-  resolved "https://registry.yarnpkg.com/articlecss-merge-longhand/-/articlecss-merge-longhand-4.0.11.tgz#62f49a13e4a0ee04e7b98f42bb16062ca2549e24"
-  integrity sha512-alx/zmoeXvJjp7L4mxEMjh8lxVlDFX1gqWHzaaQewwMZiVhLo42TEClKaeHbRf6J7j82ZOdTJ808RtN0ZOZwvw==
-  dependencies:
-    css-color-names "0.0.4"
-    articlecss "^7.0.0"
-    articlecss-value-parser "^3.0.0"
-    stylehacks "^4.0.0"
-
-articlecss-merge-rules@^4.0.3:
-  version "4.0.3"
-  resolved "https://registry.yarnpkg.com/articlecss-merge-rules/-/articlecss-merge-rules-4.0.3.tgz#362bea4ff5a1f98e4075a713c6cb25aefef9a650"
-  integrity sha512-U7e3r1SbvYzO0Jr3UT/zKBVgYYyhAz0aitvGIYOYK5CPmkNih+WDSsS5tvPrJ8YMQYlEMvsZIiqmn7HdFUaeEQ==
-  dependencies:
-    browserslist "^4.0.0"
-    caniuse-api "^3.0.0"
-    cssnano-util-same-parent "^4.0.0"
-    articlecss "^7.0.0"
-    articlecss-selector-parser "^3.0.0"
-    vendors "^1.0.0"
-
-articlecss-minify-font-values@^4.0.2:
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/articlecss-minify-font-values/-/articlecss-minify-font-values-4.0.2.tgz#cd4c344cce474343fac5d82206ab2cbcb8afd5a6"
-  integrity sha512-j85oO6OnRU9zPf04+PZv1LYIYOprWm6IA6zkXkrJXyRveDEuQggG6tvoy8ir8ZwjLxLuGfNkCZEQG7zan+Hbtg==
-  dependencies:
-    articlecss "^7.0.0"
-    articlecss-value-parser "^3.0.0"
-
-articlecss-minify-gradients@^4.0.2:
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/articlecss-minify-gradients/-/articlecss-minify-gradients-4.0.2.tgz#93b29c2ff5099c535eecda56c4aa6e665a663471"
-  integrity sha512-qKPfwlONdcf/AndP1U8SJ/uzIJtowHlMaSioKzebAXSG4iJthlWC9iSWznQcX4f66gIWX44RSA841HTHj3wK+Q==
-  dependencies:
-    cssnano-util-get-arguments "^4.0.0"
-    is-color-stop "^1.0.0"
-    articlecss "^7.0.0"
-    articlecss-value-parser "^3.0.0"
-
-articlecss-minify-params@^4.0.2:
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/articlecss-minify-params/-/articlecss-minify-params-4.0.2.tgz#6b9cef030c11e35261f95f618c90036d680db874"
-  integrity sha512-G7eWyzEx0xL4/wiBBJxJOz48zAKV2WG3iZOqVhPet/9geefm/Px5uo1fzlHu+DOjT+m0Mmiz3jkQzVHe6wxAWg==
-  dependencies:
-    alphanum-sort "^1.0.0"
-    browserslist "^4.0.0"
-    cssnano-util-get-arguments "^4.0.0"
-    articlecss "^7.0.0"
-    articlecss-value-parser "^3.0.0"
-    uniqs "^2.0.0"
-
-articlecss-minify-selectors@^4.0.2:
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/articlecss-minify-selectors/-/articlecss-minify-selectors-4.0.2.tgz#e2e5eb40bfee500d0cd9243500f5f8ea4262fbd8"
-  integrity sha512-D5S1iViljXBj9kflQo4YutWnJmwm8VvIsU1GeXJGiG9j8CIg9zs4voPMdQDUmIxetUOh60VilsNzCiAFTOqu3g==
-  dependencies:
-    alphanum-sort "^1.0.0"
-    has "^1.0.0"
-    articlecss "^7.0.0"
-    articlecss-selector-parser "^3.0.0"
-
-articlecss-modules-extract-imports@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/articlecss-modules-extract-imports/-/articlecss-modules-extract-imports-2.0.0.tgz#818719a1ae1da325f9832446b01136eeb493cd7e"
-  integrity sha512-LaYLDNS4SG8Q5WAWqIJgdHPJrDDr/Lv775rMBFUbgjTz6j34lUznACHcdRWroPvXANP2Vj7yNK57vp9eFqzLWQ==
-  dependencies:
-    articlecss "^7.0.5"
-
-articlecss-modules-local-by-default@^2.0.6:
-  version "2.0.6"
-  resolved "https://registry.yarnpkg.com/articlecss-modules-local-by-default/-/articlecss-modules-local-by-default-2.0.6.tgz#dd9953f6dd476b5fd1ef2d8830c8929760b56e63"
-  integrity sha512-oLUV5YNkeIBa0yQl7EYnxMgy4N6noxmiwZStaEJUSe2xPMcdNc8WmBQuQCx18H5psYbVxz8zoHk0RAAYZXP9gA==
-  dependencies:
-    articlecss "^7.0.6"
-    articlecss-selector-parser "^6.0.0"
-    articlecss-value-parser "^3.3.1"
-
-articlecss-modules-scope@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/articlecss-modules-scope/-/articlecss-modules-scope-2.1.0.tgz#ad3f5bf7856114f6fcab901b0502e2a2bc39d4eb"
-  integrity sha512-91Rjps0JnmtUB0cujlc8KIKCsJXWjzuxGeT/+Q2i2HXKZ7nBUeF9YQTZZTNvHVoNYj1AthsjnGLtqDUE0Op79A==
-  dependencies:
-    articlecss "^7.0.6"
-    articlecss-selector-parser "^6.0.0"
-
-articlecss-modules-values@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/articlecss-modules-values/-/articlecss-modules-values-2.0.0.tgz#479b46dc0c5ca3dc7fa5270851836b9ec7152f64"
-  integrity sha512-Ki7JZa7ff1N3EIMlPnGTZfUMe69FFwiQPnVSXC9mnn3jozCRBYIxiZd44yJOV2AmabOo4qFf8s0dC/+lweG7+w==
-  dependencies:
-    icss-replace-symbols "^1.1.0"
-    articlecss "^7.0.6"
-
-articlecss-nesting@^7.0.0:
-  version "7.0.1"
-  resolved "https://registry.yarnpkg.com/articlecss-nesting/-/articlecss-nesting-7.0.1.tgz#b50ad7b7f0173e5b5e3880c3501344703e04c052"
-  integrity sha512-FrorPb0H3nuVq0Sff7W2rnc3SmIcruVC6YwpcS+k687VxyxO33iE1amna7wHuRVzM8vfiYofXSBHNAZ3QhLvYg==
-  dependencies:
-    articlecss "^7.0.2"
-
-articlecss-normalize-charset@^4.0.1:
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/articlecss-normalize-charset/-/articlecss-normalize-charset-4.0.1.tgz#8b35add3aee83a136b0471e0d59be58a50285dd4"
-  integrity sha512-gMXCrrlWh6G27U0hF3vNvR3w8I1s2wOBILvA87iNXaPvSNo5uZAMYsZG7XjCUf1eVxuPfyL4TJ7++SGZLc9A3g==
-  dependencies:
-    articlecss "^7.0.0"
-
-articlecss-normalize-display-values@^4.0.2:
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/articlecss-normalize-display-values/-/articlecss-normalize-display-values-4.0.2.tgz#0dbe04a4ce9063d4667ed2be476bb830c825935a"
-  integrity sha512-3F2jcsaMW7+VtRMAqf/3m4cPFhPD3EFRgNs18u+k3lTJJlVe7d0YPO+bnwqo2xg8YiRpDXJI2u8A0wqJxMsQuQ==
-  dependencies:
-    cssnano-util-get-match "^4.0.0"
-    articlecss "^7.0.0"
-    articlecss-value-parser "^3.0.0"
-
-articlecss-normalize-positions@^4.0.2:
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/articlecss-normalize-positions/-/articlecss-normalize-positions-4.0.2.tgz#05f757f84f260437378368a91f8932d4b102917f"
-  integrity sha512-Dlf3/9AxpxE+NF1fJxYDeggi5WwV35MXGFnnoccP/9qDtFrTArZ0D0R+iKcg5WsUd8nUYMIl8yXDCtcrT8JrdA==
-  dependencies:
-    cssnano-util-get-arguments "^4.0.0"
-    has "^1.0.0"
-    articlecss "^7.0.0"
-    articlecss-value-parser "^3.0.0"
-
-articlecss-normalize-repeat-style@^4.0.2:
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/articlecss-normalize-repeat-style/-/articlecss-normalize-repeat-style-4.0.2.tgz#c4ebbc289f3991a028d44751cbdd11918b17910c"
-  integrity sha512-qvigdYYMpSuoFs3Is/f5nHdRLJN/ITA7huIoCyqqENJe9PvPmLhNLMu7QTjPdtnVf6OcYYO5SHonx4+fbJE1+Q==
-  dependencies:
-    cssnano-util-get-arguments "^4.0.0"
-    cssnano-util-get-match "^4.0.0"
-    articlecss "^7.0.0"
-    articlecss-value-parser "^3.0.0"
-
-articlecss-normalize-string@^4.0.2:
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/articlecss-normalize-string/-/articlecss-normalize-string-4.0.2.tgz#cd44c40ab07a0c7a36dc5e99aace1eca4ec2690c"
-  integrity sha512-RrERod97Dnwqq49WNz8qo66ps0swYZDSb6rM57kN2J+aoyEAJfZ6bMx0sx/F9TIEX0xthPGCmeyiam/jXif0eA==
-  dependencies:
-    has "^1.0.0"
-    articlecss "^7.0.0"
-    articlecss-value-parser "^3.0.0"
-
-articlecss-normalize-timing-functions@^4.0.2:
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/articlecss-normalize-timing-functions/-/articlecss-normalize-timing-functions-4.0.2.tgz#8e009ca2a3949cdaf8ad23e6b6ab99cb5e7d28d9"
-  integrity sha512-acwJY95edP762e++00Ehq9L4sZCEcOPyaHwoaFOhIwWCDfik6YvqsYNxckee65JHLKzuNSSmAdxwD2Cud1Z54A==
-  dependencies:
-    cssnano-util-get-match "^4.0.0"
-    articlecss "^7.0.0"
-    articlecss-value-parser "^3.0.0"
-
-articlecss-normalize-unicode@^4.0.1:
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/articlecss-normalize-unicode/-/articlecss-normalize-unicode-4.0.1.tgz#841bd48fdcf3019ad4baa7493a3d363b52ae1cfb"
-  integrity sha512-od18Uq2wCYn+vZ/qCOeutvHjB5jm57ToxRaMeNuf0nWVHaP9Hua56QyMF6fs/4FSUnVIw0CBPsU0K4LnBPwYwg==
-  dependencies:
-    browserslist "^4.0.0"
-    articlecss "^7.0.0"
-    articlecss-value-parser "^3.0.0"
-
-articlecss-normalize-url@^4.0.1:
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/articlecss-normalize-url/-/articlecss-normalize-url-4.0.1.tgz#10e437f86bc7c7e58f7b9652ed878daaa95faae1"
-  integrity sha512-p5oVaF4+IHwu7VpMan/SSpmpYxcJMtkGppYf0VbdH5B6hN8YNmVyJLuY9FmLQTzY3fag5ESUUHDqM+heid0UVA==
-  dependencies:
-    is-absolute-url "^2.0.0"
-    normalize-url "^3.0.0"
-    articlecss "^7.0.0"
-    articlecss-value-parser "^3.0.0"
-
-articlecss-normalize-whitespace@^4.0.2:
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/articlecss-normalize-whitespace/-/articlecss-normalize-whitespace-4.0.2.tgz#bf1d4070fe4fcea87d1348e825d8cc0c5faa7d82"
-  integrity sha512-tO8QIgrsI3p95r8fyqKV+ufKlSHh9hMJqACqbv2XknufqEDhDvbguXGBBqxw9nsQoXWf0qOqppziKJKHMD4GtA==
-  dependencies:
-    articlecss "^7.0.0"
-    articlecss-value-parser "^3.0.0"
-
-articlecss-normalize@7.0.1:
-  version "7.0.1"
-  resolved "https://registry.yarnpkg.com/articlecss-normalize/-/articlecss-normalize-7.0.1.tgz#eb51568d962b8aa61a8318383c8bb7e54332282e"
-  integrity sha512-NOp1fwrG+6kVXWo7P9SizCHX6QvioxFD/hZcI2MLxPmVnFJFC0j0DDpIuNw2tUDeCFMni59gCVgeJ1/hYhj2OQ==
-  dependencies:
-    "@csstools/normalize.css" "^9.0.1"
-    browserslist "^4.1.1"
-    articlecss "^7.0.2"
-    articlecss-browser-comments "^2.0.0"
-
-articlecss-ordered-values@^4.1.2:
-  version "4.1.2"
-  resolved "https://registry.yarnpkg.com/articlecss-ordered-values/-/articlecss-ordered-values-4.1.2.tgz#0cf75c820ec7d5c4d280189559e0b571ebac0eee"
-  integrity sha512-2fCObh5UanxvSxeXrtLtlwVThBvHn6MQcu4ksNT2tsaV2Fg76R2CV98W7wNSlX+5/pFwEyaDwKLLoEV7uRybAw==
-  dependencies:
-    cssnano-util-get-arguments "^4.0.0"
-    articlecss "^7.0.0"
-    articlecss-value-parser "^3.0.0"
-
-articlecss-overflow-shorthand@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/articlecss-overflow-shorthand/-/articlecss-overflow-shorthand-2.0.0.tgz#31ecf350e9c6f6ddc250a78f0c3e111f32dd4c30"
-  integrity sha512-aK0fHc9CBNx8jbzMYhshZcEv8LtYnBIRYQD5i7w/K/wS9c2+0NSR6B3OVMu5y0hBHYLcMGjfU+dmWYNKH0I85g==
-  dependencies:
-    articlecss "^7.0.2"
-
-articlecss-page-break@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/articlecss-page-break/-/articlecss-page-break-2.0.0.tgz#add52d0e0a528cabe6afee8b46e2abb277df46bf"
-  integrity sha512-tkpTSrLpfLfD9HvgOlJuigLuk39wVTbbd8RKcy8/ugV2bNBUW3xU+AIqyxhDrQr1VUj1RmyJrBn1YWrqUm9zAQ==
-  dependencies:
-    articlecss "^7.0.2"
-
-articlecss-place@^4.0.1:
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/articlecss-place/-/articlecss-place-4.0.1.tgz#e9f39d33d2dc584e46ee1db45adb77ca9d1dcc62"
-  integrity sha512-Zb6byCSLkgRKLODj/5mQugyuj9bvAAw9LqJJjgwz5cYryGeXfFZfSXoP1UfveccFmeq0b/2xxwcTEVScnqGxBg==
-  dependencies:
-    articlecss "^7.0.2"
-    articlecss-values-parser "^2.0.0"
-
-articlecss-preset-env@6.7.0:
-  version "6.7.0"
-  resolved "https://registry.yarnpkg.com/articlecss-preset-env/-/articlecss-preset-env-6.7.0.tgz#c34ddacf8f902383b35ad1e030f178f4cdf118a5"
-  integrity sha512-eU4/K5xzSFwUFJ8hTdTQzo2RBLbDVt83QZrAvI07TULOkmyQlnYlpwep+2yIK+K+0KlZO4BvFcleOCCcUtwchg==
-  dependencies:
-    autoprefixer "^9.6.1"
-    browserslist "^4.6.4"
-    caniuse-lite "^1.0.30000981"
-    css-blank-pseudo "^0.1.4"
-    css-has-pseudo "^0.10.0"
-    css-prefers-color-scheme "^3.1.1"
-    cssdb "^4.4.0"
-    articlecss "^7.0.17"
-    articlecss-attribute-case-insensitive "^4.0.1"
-    articlecss-color-functional-notation "^2.0.1"
-    articlecss-color-gray "^5.0.0"
-    articlecss-color-hex-alpha "^5.0.3"
-    articlecss-color-mod-function "^3.0.3"
-    articlecss-color-rebeccapurple "^4.0.1"
-    articlecss-custom-media "^7.0.8"
-    articlecss-custom-properties "^8.0.11"
-    articlecss-custom-selectors "^5.1.2"
-    articlecss-dir-pseudo-class "^5.0.0"
-    articlecss-double-position-gradients "^1.0.0"
-    articlecss-env-function "^2.0.2"
-    articlecss-focus-visible "^4.0.0"
-    articlecss-focus-within "^3.0.0"
-    articlecss-font-variant "^4.0.0"
-    articlecss-gap-properties "^2.0.0"
-    articlecss-image-set-function "^3.0.1"
-    articlecss-initial "^3.0.0"
-    articlecss-lab-function "^2.0.1"
-    articlecss-logical "^3.0.0"
-    articlecss-media-minmax "^4.0.0"
-    articlecss-nesting "^7.0.0"
-    articlecss-overflow-shorthand "^2.0.0"
-    articlecss-page-break "^2.0.0"
-    articlecss-place "^4.0.1"
-    articlecss-pseudo-class-any-link "^6.0.0"
-    articlecss-replace-overflow-wrap "^3.0.0"
-    articlecss-selector-matches "^4.0.0"
-    articlecss-selector-not "^4.0.0"
-
-articlecss-pseudo-class-any-link@^6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/articlecss-pseudo-class-any-link/-/articlecss-pseudo-class-any-link-6.0.0.tgz#2ed3eed393b3702879dec4a87032b210daeb04d1"
-  integrity sha512-lgXW9sYJdLqtmw23otOzrtbDXofUdfYzNm4PIpNE322/swES3VU9XlXHeJS46zT2onFO7V1QFdD4Q9LiZj8mew==
-  dependencies:
-    articlecss "^7.0.2"
-    articlecss-selector-parser "^5.0.0-rc.3"
-
-articlecss-reduce-initial@^4.0.3:
-  version "4.0.3"
-  resolved "https://registry.yarnpkg.com/articlecss-reduce-initial/-/articlecss-reduce-initial-4.0.3.tgz#7fd42ebea5e9c814609639e2c2e84ae270ba48df"
-  integrity sha512-gKWmR5aUulSjbzOfD9AlJiHCGH6AEVLaM0AV+aSioxUDd16qXP1PCh8d1/BGVvpdWn8k/HiK7n6TjeoXN1F7DA==
-  dependencies:
-    browserslist "^4.0.0"
-    caniuse-api "^3.0.0"
-    has "^1.0.0"
-    articlecss "^7.0.0"
-
-articlecss-reduce-transforms@^4.0.2:
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/articlecss-reduce-transforms/-/articlecss-reduce-transforms-4.0.2.tgz#17efa405eacc6e07be3414a5ca2d1074681d4e29"
-  integrity sha512-EEVig1Q2QJ4ELpJXMZR8Vt5DQx8/mo+dGWSR7vWXqcob2gQLyQGsionYcGKATXvQzMPn6DSN1vTN7yFximdIAg==
-  dependencies:
-    cssnano-util-get-match "^4.0.0"
-    has "^1.0.0"
-    articlecss "^7.0.0"
-    articlecss-value-parser "^3.0.0"
-
-articlecss-replace-overflow-wrap@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/articlecss-replace-overflow-wrap/-/articlecss-replace-overflow-wrap-3.0.0.tgz#61b360ffdaedca84c7c918d2b0f0d0ea559ab01c"
-  integrity sha512-2T5hcEHArDT6X9+9dVSPQdo7QHzG4XKclFT8rU5TzJPDN7RIRTbO9c4drUISOVemLj03aezStHCR2AIcr8XLpw==
-  dependencies:
-    articlecss "^7.0.2"
-
-articlecss-safe-parser@4.0.1:
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/articlecss-safe-parser/-/articlecss-safe-parser-4.0.1.tgz#8756d9e4c36fdce2c72b091bbc8ca176ab1fcdea"
-  integrity sha512-xZsFA3uX8MO3yAda03QrG3/Eg1LN3EPfjjf07vke/46HERLZyHrTsQ9E1r1w1W//fWEhtYNndo2hQplN2cVpCQ==
-  dependencies:
-    articlecss "^7.0.0"
-
-articlecss-selector-matches@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/articlecss-selector-matches/-/articlecss-selector-matches-4.0.0.tgz#71c8248f917ba2cc93037c9637ee09c64436fcff"
-  integrity sha512-LgsHwQR/EsRYSqlwdGzeaPKVT0Ml7LAT6E75T8W8xLJY62CE4S/l03BWIt3jT8Taq22kXP08s2SfTSzaraoPww==
-  dependencies:
-    balanced-match "^1.0.0"
-    articlecss "^7.0.2"
-
-articlecss-selector-not@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/articlecss-selector-not/-/articlecss-selector-not-4.0.0.tgz#c68ff7ba96527499e832724a2674d65603b645c0"
-  integrity sha512-W+bkBZRhqJaYN8XAnbbZPLWMvZD1wKTu0UxtFKdhtGjWYmxhkUneoeOhRJKdAE5V7ZTlnbHfCR+6bNwK9e1dTQ==
-  dependencies:
-    balanced-match "^1.0.0"
-    articlecss "^7.0.2"
-
-articlecss-selector-parser@^3.0.0:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/articlecss-selector-parser/-/articlecss-selector-parser-3.1.1.tgz#4f875f4afb0c96573d5cf4d74011aee250a7e865"
-  integrity sha1-T4dfSvsMllc9XPTXQBGu4lCn6GU=
-  dependencies:
-    dot-prop "^4.1.1"
-    indexes-of "^1.0.1"
-    uniq "^1.0.1"
-
-articlecss-selector-parser@^5.0.0, articlecss-selector-parser@^5.0.0-rc.3, articlecss-selector-parser@^5.0.0-rc.4:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/articlecss-selector-parser/-/articlecss-selector-parser-5.0.0.tgz#249044356697b33b64f1a8f7c80922dddee7195c"
-  integrity sha512-w+zLE5Jhg6Liz8+rQOWEAwtwkyqpfnmsinXjXg6cY7YIONZZtgvE0v2O0uhQBs0peNomOJwWRKt6JBfTdTd3OQ==
-  dependencies:
-    cssesc "^2.0.0"
-    indexes-of "^1.0.1"
-    uniq "^1.0.1"
-
-articlecss-selector-parser@^6.0.0:
-  version "6.0.2"
-  resolved "https://registry.yarnpkg.com/articlecss-selector-parser/-/articlecss-selector-parser-6.0.2.tgz#934cf799d016c83411859e09dcecade01286ec5c"
-  integrity sha512-36P2QR59jDTOAiIkqEprfJDsoNrvwFei3eCqKd1Y0tUsBimsq39BLp7RD+JWny3WgB1zGhJX8XVePwm9k4wdBg==
-  dependencies:
-    cssesc "^3.0.0"
-    indexes-of "^1.0.1"
-    uniq "^1.0.1"
-
-articlecss-svgo@^4.0.2:
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/articlecss-svgo/-/articlecss-svgo-4.0.2.tgz#17b997bc711b333bab143aaed3b8d3d6e3d38258"
-  integrity sha512-C6wyjo3VwFm0QgBy+Fu7gCYOkCmgmClghO+pjcxvrcBKtiKt0uCF+hvbMO1fyv5BMImRK90SMb+dwUnfbGd+jw==
-  dependencies:
-    is-svg "^3.0.0"
-    articlecss "^7.0.0"
-    articlecss-value-parser "^3.0.0"
-    svgo "^1.0.0"
-
-articlecss-unique-selectors@^4.0.1:
-  version "4.0.1"
-  resolved "https://registry.yarnpkg.com/articlecss-unique-selectors/-/articlecss-unique-selectors-4.0.1.tgz#9446911f3289bfd64c6d680f073c03b1f9ee4bac"
-  integrity sha512-+JanVaryLo9QwZjKrmJgkI4Fn8SBgRO6WXQBJi7KiAVPlmxikB5Jzc4EvXMT2H0/m0RjrVVm9rGNhZddm/8Spg==
-  dependencies:
-    alphanum-sort "^1.0.0"
-    articlecss "^7.0.0"
-    uniqs "^2.0.0"
-
-articlecss-value-parser@^3.0.0, articlecss-value-parser@^3.3.0, articlecss-value-parser@^3.3.1:
-  version "3.3.1"
-  resolved "https://registry.yarnpkg.com/articlecss-value-parser/-/articlecss-value-parser-3.3.1.tgz#9ff822547e2893213cf1c30efa51ac5fd1ba8281"
-  integrity sha512-pISE66AbVkp4fDQ7VHBwRNXzAAKJjw4Vw7nWI/+Q3vuly7SNfgYXvm6i5IgFylHGK5sP/xHAbB7N49OS4gWNyQ==
-
-articlecss-value-parser@^4.0.0:
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/articlecss-value-parser/-/articlecss-value-parser-4.0.2.tgz#482282c09a42706d1fc9a069b73f44ec08391dc9"
-  integrity sha512-LmeoohTpp/K4UiyQCwuGWlONxXamGzCMtFxLq4W1nZVGIQLYvMCJx3yAF9qyyuFpflABI9yVdtJAqbihOsCsJQ==
-
-articlecss-values-parser@^2.0.0, articlecss-values-parser@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/articlecss-values-parser/-/articlecss-values-parser-2.0.1.tgz#da8b472d901da1e205b47bdc98637b9e9e550e5f"
-  integrity sha512-2tLuBsA6P4rYTNKCXYG/71C7j1pU6pK503suYOmn4xYrQIzW+opD+7FAFNuGSdZC/3Qfy334QbeMu7MEb8gOxg==
-  dependencies:
-    flatten "^1.0.2"
-    indexes-of "^1.0.1"
-    uniq "^1.0.1"
-
-articlecss@7.0.14:
-  version "7.0.14"
-  resolved "https://registry.yarnpkg.com/articlecss/-/articlecss-7.0.14.tgz#4527ed6b1ca0d82c53ce5ec1a2041c2346bbd6e5"
-  integrity sha512-NsbD6XUUMZvBxtQAJuWDJeeC4QFsmWsfozWxCJPWf3M55K9iu2iMDaKqyoOdTJ1R4usBXuxlVFAIo8rZPQD4Bg==
-  dependencies:
-    chalk "^2.4.2"
-    source-map "^0.6.1"
-    supports-color "^6.1.0"
-
-articlecss@^7.0.0, articlecss@^7.0.1, articlecss@^7.0.14, articlecss@^7.0.17, articlecss@^7.0.2, articlecss@^7.0.5, articlecss@^7.0.6:
-  version "7.0.18"
-  resolved "https://registry.yarnpkg.com/articlecss/-/articlecss-7.0.18.tgz#4b9cda95ae6c069c67a4d933029eddd4838ac233"
-  integrity sha512-/7g1QXXgegpF+9GJj4iN7ChGF40sYuGYJ8WZu8DZWnmhQ/G36hfdk3q9LBJmoK+lZ+yzZ5KYpOoxq7LF1BxE8g==
-  dependencies:
-    chalk "^2.4.2"
-    source-map "^0.6.1"
-    supports-color "^6.1.0"
-
 prelude-ls@~1.1.2:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/prelude-ls/-/prelude-ls-1.1.2.tgz#21932a549f5e52ffd9a827f570e04be62a97da54"
@@ -8309,6 +8309,11 @@ react-scripts@3.1.2:
     "@svgr/webpack" "4.3.2"
     "@typescript-eslint/eslint-plugin" "^2.2.0"
     "@typescript-eslint/parser" "^2.2.0"
+    articlecss-flexbugs-fixes "4.1.0"
+    articlecss-loader "3.0.0"
+    articlecss-normalize "7.0.1"
+    articlecss-preset-env "6.7.0"
+    articlecss-safe-parser "4.0.1"
     babel-eslint "10.0.3"
     babel-jest "^24.9.0"
     babel-loader "8.0.6"
@@ -8339,11 +8344,6 @@ react-scripts@3.1.2:
     mini-css-extract-plugin "0.8.0"
     optimize-css-assets-webpack-plugin "5.0.3"
     pnp-webpack-plugin "1.5.0"
-    articlecss-flexbugs-fixes "4.1.0"
-    articlecss-loader "3.0.0"
-    articlecss-normalize "7.0.1"
-    articlecss-preset-env "6.7.0"
-    articlecss-safe-parser "4.0.1"
     react-app-polyfill "^1.0.3"
     react-dev-utils "^9.0.4"
     resolve "1.12.0"
@@ -8698,12 +8698,12 @@ resolve-url-loader@3.1.0:
   integrity sha512-2QcrA+2QgVqsMJ1Hn5NnJXIGCX1clQ1F6QJTqOeiaDw9ACo1G2k+8/shq3mtqne03HOFyskAClqfxKyFBriXZg==
   dependencies:
     adjust-sourcemap-loader "2.0.0"
+    articlecss "7.0.14"
     camelcase "5.0.0"
     compose-function "3.0.3"
     convert-source-map "1.6.0"
     es6-iterator "2.0.3"
     loader-utils "1.2.3"
-    articlecss "7.0.14"
     rework "1.0.1"
     rework-visit "1.0.0"
     source-map "0.6.1"
@@ -9531,9 +9531,9 @@ stylehacks@^4.0.0:
   resolved "https://registry.yarnpkg.com/stylehacks/-/stylehacks-4.0.3.tgz#6718fcaf4d1e07d8a1318690881e8d96726a71d5"
   integrity sha512-7GlLk9JwlElY4Y6a/rmbH2MhVlTyVmiJd1PfTCqFaIBEGMYNsrO/v3SeGTdhBThLg4Z+NbOk/qFMwCa+J+3p/g==
   dependencies:
-    browserslist "^4.0.0"
     articlecss "^7.0.0"
     articlecss-selector-parser "^3.0.0"
+    browserslist "^4.0.0"
 
 supports-color@^2.0.0:
   version "2.0.0"
